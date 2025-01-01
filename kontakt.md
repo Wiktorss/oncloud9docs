@@ -1,9 +1,20 @@
 ---
+icon: phone-flip
 description: >-
   Ta Knowledge Base opisuje wsparcie 24/7 onCloud9, które łączy AI i ekspertów
   ludzkich, by szybko rozwiązać problemy. Dowiedz się, jak AI diagnozuje usterki
   i kiedy przejmuje zespół ludzi.
-icon: phone-flip
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
 ---
 
 # Kontakt
