@@ -1,13 +1,13 @@
 ---
+icon: user
 description: >-
   Ta Knowledge Base zawiera szczegółowy przewodnik po zakładaniu konta na
   onCloud9, od wyboru planu subskrypcyjnego po zabezpieczenie danych logowania.
-icon: user
 ---
 
 # Zakładanie konta
 
-Link do udostępnienia tego artykułu: [Zakładanie konta](zakladanie-konta.md)
+Link do udostępnienia tego artykułu: [Zakładanie konta](https://oncloud9.gitbook.io/docs/platnosci/zakladanie-konta)
 
 > "Zanim zanurkujesz w tej sieci, zrozum – to nie ty kontrolujesz. To ona kontroluje ciebie."
 

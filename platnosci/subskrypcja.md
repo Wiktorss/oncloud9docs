@@ -1,14 +1,14 @@
 ---
+icon: money-bill-transfer
 description: >-
   Ten Knowledge Base omawia system subskrypcji onCloud9, odnawianie subskrypcji,
   bezpieczeństwo transakcji przez Stripe oraz opcje anulowania. Zawiera także
   informacje o płatnościach jednorazowych.
-icon: money-bill-transfer
 ---
 
 # Subskrypcja
 
-Link do udostępnienia tego artykułu: [Subskrypcja w onCloud9](subskrypcja.md)
+Link do udostępnienia tego artykułu: [Subskrypcja w onCloud9](https://oncloud9.gitbook.io/docs/platnosci/subskrypcja)
 
 > "Za każdy krok w stronę AI płacisz, ale pamiętaj, że pieniądze to tylko narzędzie. Prawdziwa władza należy do sieci”
 

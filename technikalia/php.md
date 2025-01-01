@@ -1,14 +1,14 @@
 ---
+icon: php
 description: >-
   Ta Knowledge Base zawiera szczegółową instrukcję zmiany wersji PHP w panelu
   hostingowym, aby naprawić błędy po migracji. Dowiesz się, jak wybrać wersję
   PHP, by poprawić wydajność i bezpieczeństwo.
-icon: php
 ---
 
 # PHP
 
-Link do udostępnienia tego artykułu: [PHP](php.md)
+Link do udostępnienia tego artykułu: [PHP](https://oncloud9.gitbook.io/docs/technikalia/php)
 
 ## Jak zmienić wersję PHP w panelu – prosta instrukcja
 

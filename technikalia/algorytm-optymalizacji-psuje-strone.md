@@ -1,14 +1,14 @@
 ---
+icon: bolt-slash
 description: >-
   Ta Knowledge Base zawiera informacje o tym, co zrobić, gdy algorytm
   optymalizacji wprowadzi niepożądane zmiany na Twojej stronie. Dowiesz się, jak
   skontaktować się z człowiekiem, aby naprawić problem.
-icon: bolt-slash
 ---
 
 # Algorytm optymalizacji psuje stronę
 
-Link do udostępnienia tego artykułu:[ Algorytm optymalizacji psuje stronę](algorytm-optymalizacji-psuje-strone.md)
+Link do udostępnienia tego artykułu: [Algorytm optymalizacji psuje stronę](https://oncloud9.gitbook.io/docs/technikalia/algorytm-optymalizacji-psuje-strone)
 
 ## Co zrobić, gdy nasz algorytm optymalizacji psuje Twoją stronę?
 

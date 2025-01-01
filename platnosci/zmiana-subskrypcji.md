@@ -1,14 +1,14 @@
 ---
+icon: money-check-pen
 description: >-
   Ten Knowledge Base opisuje opisuje proces zmiany subskrypcji hostingu na
   onCloud9.io, w tym logowanie, wybór planu, potwierdzenie zmiany, płatności
   oraz aktywację nowego planu.
-icon: money-check-pen
 ---
 
 # Zmiana subskrypcji
 
-Link do udostępnienia tego artykułu: [Zmiana subskrypcji](zmiana-subskrypcji.md)
+Link do udostępnienia tego artykułu: [Zmiana subskrypcji](https://oncloud9.gitbook.io/docs/platnosci/zmiana-subskrypcji)
 
 ## Jak zmienić subskrypcję hostingu na [oncloud9.io](http://oncloud9.io)?
 

@@ -1,14 +1,14 @@
 ---
+icon: shield-check
 description: >-
   Ta Knowledge Base wyjaśnia, dlaczego darmowy certyfikat SSL wystarczy w 99%
   przypadków. SSL zapewnia szyfrowanie danych, co sprawia, że Twoja strona jest
   bezpieczniejsza.
-icon: shield-check
 ---
 
 # SSL
 
-Link do udostępnienia tego artykułu: [SSL](ssl.md)&#x20;
+Link do udostępnienia tego artykułu: [SSL](https://oncloud9.gitbook.io/docs/technikalia/ssl)&#x20;
 
 ## SSL – Co to jest i po co Ci to?
 

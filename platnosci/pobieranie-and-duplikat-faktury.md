@@ -1,14 +1,14 @@
 ---
+icon: file-export
 description: >-
   Ta Knowledge Base pomoże Ci odzyskać fakturę za hosting w onCloud9, gdy
   zaginie w natłoku maili lub chaosie na dysku. Zawiera instrukcje, jak pobrać
   fakturę z systemu Stripe oraz jak uzyskać pomoc
-icon: file-export
 ---
 
 # Pobieranie & Duplikat Faktury
 
-Link do udostępnienia tego artykułu: [Pobieranie & Duplikat Faktury](pobieranie-and-duplikat-faktury.md)
+Link do udostępnienia tego artykułu: [Pobieranie & Duplikat Faktury](https://oncloud9.gitbook.io/docs/platnosci/pobieranie-and-duplikat-faktury)
 
 ### Jak odzyskać fakturę przez Stripe
 

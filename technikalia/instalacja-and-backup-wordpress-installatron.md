@@ -1,14 +1,14 @@
 ---
+icon: wordpress
 description: >-
   Ta Knowledge Base zawiera prosty przewodnik po instalacji WordPressa za pomocą
   Installatrona, rozwiązania szybciego, taniego i efektywnego. Zainstalujesz
   swojego WordPressa w kilku łatwych krokach.
-icon: wordpress
 ---
 
 # Instalacja & Backup WordPress (Installatron)
 
-Link do udostępnienia tego artykułu: [Instalacja i backup WordPress (Installatron)](instalacja-and-backup-wordpress-installatron.md)
+Link do udostępnienia tego artykułu: [Instalacja i backup WordPress (Installatron)](https://oncloud9.gitbook.io/docs/technikalia/instalacja-and-backup-wordpress-installatron)
 
 Będziemy szczerzy – jesteśmy leniwi, to jest ładna nakładka na Installatrona. Tak, po prostu. Ale wiecie co? To rozwiązanie jest tanie, szybkie i naprawdę efektywne, więc… po co kombinować? Wybraliśmy najlepszy sposób na instalację WordPressa, bo… no, tylko głupiec by z tego nie skorzystał. Jeśli masz w sobie odrobinę rozsądku (a zakładamy, że tak), to jeszcze dziś będziesz miał swojego WordPressa, działającego i gotowego do akcji!
 

@@ -1,14 +1,14 @@
 ---
+icon: book-atlas
 description: >-
   Ta Knowledge Base zawiera informacje i wsparcie dotyczące rejestracji,
   przenoszenia oraz wyboru domen na oncloud9.io. Znajdziesz tu także porady, jak
   wybrać nazwę domeny przyjazną dla SEO.
-icon: book-atlas
 ---
 
 # Domeny
 
-Link do udostępnienia tego artykułu: [Domeny](domeny.md)
+Link do udostępnienia tego artykułu: [Domeny](https://oncloud9.gitbook.io/docs/technikalia/domeny)
 
 ## Jak kupić domenę na oncloud9.io?
 

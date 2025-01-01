@@ -1,14 +1,14 @@
 ---
+icon: face-sad-tear
 description: >-
   Ta Knowledge Base opisuje, jak anulować subskrypcję onCloud9 przez Stripe, bez
   ukrytych opłat i haczyków. Dowiedz się, jak przejść przez cały proces, krok po
   kroku, bez bólu i zbędnych komplikacji
-icon: face-sad-tear
 ---
 
 # Anulowanie subskrypcji
 
-Link do udostępnienia tego artykułu: [Anulowanie Subskrypcji](anulowanie-subskrypcji.md)
+Link do udostępnienia tego artykułu: [Anulowanie Subskrypcji](https://oncloud9.gitbook.io/docs/platnosci/anulowanie-subskrypcji)
 
 ## Zdajemy sobie sprawę, że czasem trzeba pożegnać się z czymś, co nie spełnia Twoich oczekiwań... Może nasz hosting to trochę za duży kaliber jak na Twoje potrzeby? 😏
 

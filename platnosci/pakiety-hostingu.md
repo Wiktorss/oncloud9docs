@@ -1,14 +1,14 @@
 ---
+icon: comments-dollar
 description: >-
   Ta Knowledge Base przedstawia nasze pakiety hostingowe, które dostosowują się
   do Twoich potrzeb — od Pakietu #PRO dla początkujących po Pakiet #ULTRA dla
   profesjonalistów.
-icon: comments-dollar
 ---
 
 # Pakiety Hostingu
 
-Link do udostępnienia tego artykułu: [Pakiety Hostingu](pakiety-hostingu.md)
+Link do udostępnienia tego artykułu: [Pakiety Hostingu](https://oncloud9.gitbook.io/docs/platnosci/pakiety-hostingu)
 
 ## **Cennik Pakietów Hostingowych**
 

@@ -1,14 +1,14 @@
 ---
+icon: democrat
 description: >-
   Ta Knowledge Base zawiera wskazówki, jak unikać błędów kodowania w WordPress,
   które mogą spowolnić działanie strony. Dowiesz się, jak zoptymalizować
   skrypty, obrazy i wtyczki, aby zwiększyć wydajność.
-icon: democrat
 ---
 
 # Jak NIE kodować
 
-Link do udostępnienia tego artykułu: [Jak NIE kodować](jak-nie-kodowac.md)
+Link do udostępnienia tego artykułu: [Jak NIE kodować](https://oncloud9.gitbook.io/docs/technikalia/jak-nie-kodowac)
 
 ## Jak NIE kodować w WordPressie?
 

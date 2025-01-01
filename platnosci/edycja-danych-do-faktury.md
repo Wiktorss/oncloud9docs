@@ -1,14 +1,14 @@
 ---
+icon: file-lines
 description: >-
   Ta Knowledge Base  zawiera szczegółowy przewodnik dotyczący edytowania danych
   do faktury w systemie onCloud9, w tym zmiany danych rozliczeniowych w Stripe,
   zarządzanie subskrypcjami.
-icon: file-lines
 ---
 
 # Edycja danych do faktury
 
-Link do udostępnienia tego artykułu: [Edycja danych do faktury](edycja-danych-do-faktury.md)
+Link do udostępnienia tego artykułu: [Edycja danych do faktury](https://oncloud9.gitbook.io/docs/platnosci/edycja-danych-do-faktury)
 
 ### Jak edytować dane do faktury w onCloud9
 

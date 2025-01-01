@@ -1,14 +1,14 @@
 ---
+icon: file-circle-exclamation
 description: >-
   Ta Knowledge Base zawiera szczegółowy przewodnik po procesie zakładania konta
   na onCloud9, w tym wybór planu subskrypcyjnego, wypełnianie formularza oraz
   uzyskiwanie danych logowania.
-icon: file-circle-exclamation
 ---
 
 # Błąd na fakturze do korekty
 
-Link do udostępnienia tego artykułu: [Błąd na fakturze do korekty](blad-na-fakturze-do-korekty.md)
+Link do udostępnienia tego artykułu: [Błąd na fakturze do korekty](https://oncloud9.gitbook.io/docs/platnosci/blad-na-fakturze-do-korekty)
 
 Każdemu może się zdarzyć pomyłka przy wpisywaniu danych – nawet najlepszym przytrafia się błędny NIP czy adres. Jeśli zauważyłeś błąd na fakturze, nie martw się – możemy to naprawić!
 

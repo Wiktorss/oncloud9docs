@@ -1,14 +1,14 @@
 ---
+icon: globe-pointer
 description: >-
   Ta Knowledge Base zawiera przewodnik po migracji strony do naszego hostingu, w
   tym instrukcje dla WordPressa. Dowiesz się, jak łatwo przenieść swoją stronę
   za pomocą wtyczki lub Installatrona.
-icon: globe-pointer
 ---
 
 # Migracja na nasz Hosting
 
-Link do udostępnienia tego artykułu: [Migracja na nasz Hosting](migracja-na-nasz-hosting.md)
+Link do udostępnienia tego artykułu: [Migracja na nasz Hosting](https://oncloud9.gitbook.io/docs/technikalia/migracja-na-nasz-hosting)
 
 ## Migracja hostingu do nas – Jak to zrobić? Prosto jak 1-2-3
 

@@ -1,14 +1,14 @@
 ---
+icon: inbox
 description: >-
   Ta Knowledge Base przedstawia, jak tworzyć skrzynki pocztowe na Twoim koncie,
   oraz jak zarządzać istniejącymi skrzynkami. Wskazówki obejmują ustawienia
   pojemności, typy skrzynek i zarządzanie.
-icon: inbox
 ---
 
 # Skrzynki Pocztowe
 
-Link do udostępnienia tego artykułu: [Skrzynki Pocztowe](skrzynki-pocztowe.md)
+Link do udostępnienia tego artykułu: [Skrzynki Pocztowe](https://oncloud9.gitbook.io/docs/technikalia/skrzynki-pocztowe)
 
 **Tworzenie Skrzynki Pocztowej**
 

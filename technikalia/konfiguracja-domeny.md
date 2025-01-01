@@ -1,14 +1,14 @@
 ---
+icon: globe
 description: >-
   Ta Knowledge Base zawiera kompletny przewodnik po zarządzaniu domenami, w tym
   parkowanie, zmianę, cesję i transfer domeny. Dowiesz się, jak prawidłowo
   skonfigurować domenę i uniknąć problemów.
-icon: globe
 ---
 
 # Konfiguracja domeny
 
-Link do udostępnienia tego artykułu: [Konfiguracja domeny](konfiguracja-domeny.md)
+Link do udostępnienia tego artykułu: [Konfiguracja domeny](https://oncloud9.gitbook.io/docs/technikalia/konfiguracja-domeny)
 
 <mark style="color:red;">**Ważne! Pamiętaj o rekordzie SPF przypisanym do domeny v=spf1 ip4:178.255.46.130 ip4:178.255.46.131 include:mail.oncloud9.io \~all**</mark>
 
