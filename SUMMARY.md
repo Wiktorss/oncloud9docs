@@ -25,3 +25,4 @@
 * [Konfiguracja domeny](technikalia/konfiguracja-domeny.md)
 * [Algorytm optymalizacji psuje stronę](technikalia/algorytm-optymalizacji-psuje-strone.md)
 * [Domeny](technikalia/domeny.md)
+* [Skrypt JavaScript się nie odświeża](technikalia/skrypt-javascript-sie-nie-odswieza.md)
