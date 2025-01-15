@@ -3,6 +3,7 @@ description: >-
   Ta Knowledge Base zawiera szczegółowe instrukcje, jak rozwiązać problem z
   JavaScriptem, który nie odświeża się poprawnie przez cache oraz nasz algorytm
   w litespeed.
+icon: js
 ---
 
 # Skrypt JavaScript się nie odświeża
