@@ -1,9 +1,9 @@
 ---
+icon: js
 description: >-
   Ta Knowledge Base zawiera szczegółowe instrukcje, jak rozwiązać problem z
   JavaScriptem, który nie odświeża się poprawnie przez cache oraz nasz algorytm
   w litespeed.
-icon: js
 ---
 
 # Skrypt JavaScript się nie odświeża
@@ -49,12 +49,11 @@ Zmiana wersji (np. na **v=1.1**) wymusi ładowanie nowego pliku.
 
 Jeśli atrybut `data-no-optimize` nie wystarczy, możesz użyć filtra w WordPressie, aby wykluczyć wybrane pliki JavaScript z optymalizacji:
 
-```
-add_filter('litespeed_optimize_js_excludes', function($excludes) {
-    $excludes[] = '/ścieżka/do/skryptu.js';
-    return $excludes;
+<pre><code>add_filter('litespeed_optimize_js_excludes', function($excludes) {
+<strong>    $excludes[] = '/ścieżka/do/skryptu.js';
+</strong>    return $excludes;
 });
-```
+</code></pre>
 
 #### 5. **Sprawdź błędy w konsoli**
 

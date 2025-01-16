@@ -3,6 +3,7 @@ description: >-
   Ta Knowledge Base zawiera informacje o tym, jak szybko sprawdzić na żywo stan
   usług onCloud9.io (uptime i downtime poszczególnych modułów) oraz co zrobić w
   przypadku problemów.
+icon: diamond-exclamation
 ---
 
 # Status działania - awarie, uptime, downtime usług onCloud9.io
