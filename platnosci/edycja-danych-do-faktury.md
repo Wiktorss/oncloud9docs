@@ -1,9 +1,9 @@
 ---
 icon: file-lines
 description: >-
-  Ta Knowledge Base  zawiera szczegółowy przewodnik dotyczący edytowania danych
-  do faktury w systemie onCloud9, w tym zmiany danych rozliczeniowych w Stripe,
-  zarządzanie subskrypcjami.
+  Szczegółowy przewodnik po edytowaniu danych do faktury w systemie onCloud9, w
+  tym zarządzanie subskrypcjami i aktualizowanie danych rozliczeniowych w
+  Stripe.
 ---
 
 # Edycja danych do faktury
@@ -12,12 +12,12 @@ Link do udostępnienia tego artykułu: [Edycja danych do faktury](https://onclou
 
 ### Jak edytować dane do faktury w onCloud9
 
-1. **Wejście do systemu Stripe**\
-   Zaloguj się na swoje konto Stripe (to, które powiązałeś z onCloud9) i przejdź do sekcji płatności. Możesz to zrobić klikając [tutaj](https://billing.stripe.com/p/login/00g3cS6HPgpOdZ6aEE).
+1. **Logowanie do Stripe**\
+   Zaloguj się na swoje konto płatności onCloud9 z Stripe. Możesz to zrobić klikając [https://billing.stripe.com/p/login/00g3cS6HPgpOdZ6aEE](https://billing.stripe.com/p/login/00g3cS6HPgpOdZ6aEE). Wprowadź swój adres e-mail, a my wyślemy Ci link bezpośrednio do portalu klienta.
 2. **Zlokalizowanie danych rozliczeniowych**\
-   Po zalogowaniu wybierz swoją subskrypcję onCloud9 i kliknij na "Manage Billing Details". To tutaj dokonasz wszelkich zmian w danych.
+   Po zalogowaniu kliknij na "Manage Billing Details". To tutaj dokonasz wszelkich zmian w danych.
 3. **Aktualizacja danych**\
-   Wprowadź swoje imię i nazwisko/nazwę firmy, adres i NIP/VAT ID. Zapisz zmiany, klikając przycisk „Save”.
+   Wprowadź swoje imię i nazwisko/nazwę firmy, adres i NIP/VAT ID. Zapisz zmiany, klikając przycisk „Save”. Pamiętaj aby napisać PL przy NIP!
 4. **Pobieranie faktur**\
    Po zapisaniu zmian, przejdź do sekcji "Invoices" i pobierz swoją najnowszą fakturę w formacie PDF.
 

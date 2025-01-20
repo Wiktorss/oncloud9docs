@@ -24,7 +24,7 @@ W onCloud9 tworzymy pakiety hostingowe tak, by idealnie dopasować się do Twoic
 
 #### **Co zyskujesz?**
 
-* **15 GB SSD** dla WordPressa i poczty — wystarczająco miejsca, by rozkręcić bloga lub stronę firmową.
+* **15 GB SSD** dla WordPressa i oddzielnie **15 GB SSD** dla poczty — wystarczająco miejsca, by rozkręcić bloga lub stronę firmową.
 * **Skalowanie RAM do 3 GB** — bo prędkość ma znaczenie.
 * **2 strony WordPress** — działaj równolegle z dwoma projektami.
 * **20 GB CDN** (Europa + USA) — globalny zasięg bez opóźnień.
@@ -56,7 +56,7 @@ Pakiet stworzony dla:
 
 #### **Co zyskujesz?**
 
-* **50 GB SSD** — miejsca na tyle, że zmieścisz imperium online.
+* **50 GB SSD** dla WordPressa i oddzielnie **50 GB SSD** dla poczty — miejsca na tyle, że zmieścisz imperium online.
 * **Skalowanie RAM do 5 GB** — gotowe na większy ruch.
 * **5 stron WordPress** — obsługa wielu projektów bez wysiłku.
 * **20 GB CDN** (Europa + USA) — błyskawiczne ładowanie na całym świecie.

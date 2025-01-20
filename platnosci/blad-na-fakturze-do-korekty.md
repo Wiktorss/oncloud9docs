@@ -18,8 +18,8 @@ Każdemu może się zdarzyć pomyłka przy wpisywaniu danych – nawet najlepszy
 
 ### **Krok 1: Wejście w cyfrowy matrix płatności**
 
-1. Kliknij tutaj, aby przenieść się do świata Stripe:[**Wyrusz na misję edycji**](https://billing.stripe.com/p/login/00g3cS6HPgpOdZ6aEE)(Bez obaw, link nie przenosi do cyberprzestrzeni – tylko do płatności).
-2. Zaloguj się, używając tego samego adresu e-mail, którego użyłeś do subskrypcji onCloud9.**Pro Tip:** Jeśli używasz miliona e-maili, pamiętaj, który wybrałeś – AI pamięta wszystko, Ty też powinieneś. 😏
+1. Kliknij tutaj, aby przenieść się do świata Stripe: [**Wyrusz na misję edycji**](https://billing.stripe.com/p/login/00g3cS6HPgpOdZ6aEE) (Bez obaw, link nie przenosi do cyberprzestrzeni – tylko do płatności).
+2. Zaloguj się, używając tego samego adresu e-mail, którego użyłeś do subskrypcji onCloud9. **ProTip:** Jeśli używasz miliona e-maili, pamiętaj, który wybrałeś – AI pamięta wszystko, Ty też powinieneś. 😏
 
 ***
 
@@ -36,7 +36,7 @@ Każdemu może się zdarzyć pomyłka przy wpisywaniu danych – nawet najlepszy
 2. Wprowadź swoje dane:
    * **Imię i nazwisko/Nazwa firmy**: Wpisz coś, co wygląda profesjonalnie (lub użyj pseudonimu, jeśli Twój księgowy ma poczucie humoru).
    * **Adres**: Dodaj pełny adres, bo AI nie czyta w myślach (jeszcze).
-   * **NIP/VAT ID**: Jeśli jesteś płatnikiem VAT, wpisz swój numer. Jeśli nie, zostaw to pole puste, AI i tak się nie obrazi.
+   * **NIP/VAT ID**: Jeśli jesteś płatnikiem VAT, wpisz swój numer. Jeśli nie, zostaw to pole puste, AI i tak się nie obrazi. **Ważne, pamietaj, aby przed NIP napisać PL!**
 
 ***
 

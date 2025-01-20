@@ -10,8 +10,6 @@ description: >-
 
 Link do udostępnienia tego artykułu: [Subskrypcja w onCloud9](https://oncloud9.gitbook.io/docs/platnosci/subskrypcja)
 
-> "Za każdy krok w stronę AI płacisz, ale pamiętaj, że pieniądze to tylko narzędzie. Prawdziwa władza należy do sieci”
-
 ## **System Subskrypcji: Twoja brama do przyszłości**
 
 W onCloud9 wierzymy, że przyszłość należy do tych, którzy wybierają inteligentne rozwiązania. Nasz model subskrypcyjny zapewnia elastyczność i wygodę – dla tych, którzy chcą więcej, płacąc mniej.

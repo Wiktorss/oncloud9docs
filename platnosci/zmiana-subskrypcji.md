@@ -17,7 +17,7 @@ Zmiana subskrypcji hostingu na [oncloud9.io](http://oncloud9.io) jest prosta i s
 ### 1. **Zaloguj się do panelu klienta**
 
 * Po zakupie hostingu otrzymasz e-mail z danymi logowania do panelu klienta [oncloud9.io](http://oncloud9.io).
-* W e-mailu znajdziesz bezpośredni **link do panelu**. Użyj danych logowania z tego e-maila, aby uzyskać dostęp do swojego konta.
+* W e-mailu znajdziesz bezpośredni **link do panelu**, ewentualnie możesz też wpisać [https://da.oncloud9.io](https://da.oncloud9.io) bezpośrednio w przeglądarce. Użyj danych logowania z tego e-maila, aby uzyskać dostęp do swojego konta.&#x20;
 
 ### 2. **Przejdź do głównej zakładki w panelu**
 
@@ -44,6 +44,6 @@ Po dokonaniu zmiany Twój nowy plan zostanie aktywowany, a zasoby dostosowane do
 
 **Uwagi**:
 
-* W razie problemów z logowaniem lub zmianą planu subskrypcji skontaktuj się z obsługą klienta przez czat na stronie [oncloud9.io](https://oncloud9.io/).
+* W razie problemów z logowaniem lub zmianą planu subskrypcji skontaktuj się z obsługą klienta przez czat na stronie [oncloud9.io](https://oncloud9.io/) lub pisząc na maila pomoc@oncloud9.io
 * Pamiętaj, że zmiana subskrypcji nie wpływa na dane przechowywane na serwerze ani na działanie Twojej strony.
 * Jeśli nie będziesz miał wystarczająco wolnego miejsca (dysk/poczta), nie będziesz mógł zmniejszyć pakietu, a jedynie anulować.
