@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🖖 Żyj długo i pomyślnie](README.md)
-* [Kontakt](kontakt.md)
+* [Kontakt z AI lub człowiekiem](kontakt-z-ai-lub-czlowiekiem.md)
 
 ## Płatności
 
