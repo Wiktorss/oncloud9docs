@@ -26,7 +26,4 @@
 * [Algorytm optymalizacji psuje stronę](technikalia/algorytm-optymalizacji-psuje-strone.md)
 * [Domeny](technikalia/domeny.md)
 * [Skrypt JavaScript się nie odświeża](technikalia/skrypt-javascript-sie-nie-odswieza.md)
-
-***
-
-* [Status działania - awarie, uptime, downtime usług onCloud9.io](status-dzialania-awarie-uptime-downtime-uslug-oncloud9.io.md)
+* [Status działania - awarie, uptime, downtime usług onCloud9.io](technikalia/status-dzialania-awarie-uptime-downtime-uslug-oncloud9.io.md)
