@@ -131,10 +131,3 @@ Dodatkowo dla programistów oprócz stosowania standardowych narzędzi diagnosty
 
 • Automatyczne powiadamianie o nietypowej aktywności za pomocą narzędzi analitycznych, które integrują się z systemami monitorującymi zasoby serwera.
 
-### 6. PODSUMOWANIE: ODPowiedzialność, Uczciwość I WSPÓLNA OCHRONA CYFRY
-
-W dzisiejszym, dynamicznie zmieniającym się świecie cyfrowym, precyzyjna diagnoza i odpowiednia reakcja na zagrożenia stanowią fundament naszej wspólnej pracy. Niezależnie, czy jesteś doświadczonym programistą, czy użytkownikiem ceniącym prostotę i przejrzystość, znajomość symptomów infekcji oraz umiejętność ich identyfikacji są nieocenione. Jako zespół onCloud9.io, z pasją do innowacji oraz z głęboko zakorzenionymi zasadami etycznymi, jesteśmy gotowi służyć pomocą i wspierać Cię na każdym etapie zarządzania bezpieczeństwem Twojej witryny.
-
-Pamiętaj – odpowiedzialność za bezpieczeństwo strony leży nie tylko po stronie technologii, ale również w codziennym zaangażowaniu i dbałości o szczegóły. Działajmy razem, opierając się na uczciwości i wzajemnym szacunku, aby tworzyć bezpieczniejsze i bardziej przyjazne środowisko online.
-
-W razie jakichkolwiek pytań lub wątpliwości, zachęcam do kontaktu z naszym działem wsparcia na chat – jesteśmy tutaj, aby pomagać i wspierać, oferując praktyczne rozwiązania oparte na wieloletniej wiedzy i doświadczeniu.
