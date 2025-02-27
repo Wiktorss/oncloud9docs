@@ -116,7 +116,7 @@ a) Po usunięciu infekcji dokonaj gruntownej analizy przyczyn – sprawdź, czy 
 
 b) Zainstaluj aktualizacje oraz użyj rozwiązań zabezpieczających – zarówno programistycznych, jak i administracyjnych – aby uodpornić witrynę przed przyszłymi atakami.
 
-### 5. WSKAZÓWKI DLA OSÓB NIEZAWSADNIEJ I PROGRAMISTÓW
+### 5. WSKAZÓWKI DLA LUDZI I PROGRAMISTÓW
 
 * Zainstaluj renomowane wtyczki bezpieczeństwa, które oferują funkcje takie jak skanowanie złośliwego oprogramowania, zapora ogniowa oraz monitorowanie aktywności.
 * Unikaj instalowania mało popularnych wtyczek, które mogą zawierać luki bezpieczeństwa lub być porzucone przez twórców.
@@ -125,7 +125,7 @@ b) Zainstaluj aktualizacje oraz użyj rozwiązań zabezpieczających – zarówn
 
 Dodatkowo dla programistów oprócz stosowania standardowych narzędzi diagnostycznych (np. polecenia „find” w systemach UNIX, skrypty do porównywania sum kontrolnych), szczególnie zalecamy:
 
-* &#x20;Regularne monitorowanie katalogów kluczowych (WP\_ROOT, wp-content/uploads/) za pomocą dedykowanych skryptów, które sprawdzają integralność plików.&#x20;
+* Regularne monitorowanie katalogów kluczowych (WP\_ROOT, wp-content/uploads/) za pomocą dedykowanych skryptów, które sprawdzają integralność plików.&#x20;
 * Używanie systemów kontroli wersji (np. Git) w celu śledzenia zmian w plikach systemowych WordPressa.&#x20;
-* &#x20;Automatyczne powiadamianie o nietypowej aktywności za pomocą narzędzi analitycznych, które integrują się z systemami monitorującymi zasoby serwera.
+* Automatyczne powiadamianie o nietypowej aktywności za pomocą narzędzi analitycznych, które integrują się z systemami monitorującymi zasoby serwera.
 
