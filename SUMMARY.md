@@ -12,10 +12,10 @@
 * [Anulowanie subskrypcji](platnosci/anulowanie-subskrypcji.md)
 * [Pakiety Hostingu](platnosci/pakiety-hostingu.md)
 * [Błąd na fakturze do korekty](platnosci/blad-na-fakturze-do-korekty.md)
-* [Zakładanie konta](platnosci/zakladanie-konta.md)
 
 ## Technikalia
 
+* [Jak rozpoznać infekcję na Twojej stronie WordPress?](technikalia/jak-rozpoznac-infekcje-na-twojej-stronie-wordpress.md)
 * [Jak NIE kodować](technikalia/jak-nie-kodowac.md)
 * [Instalacja & Backup WordPress (Installatron)](technikalia/instalacja-and-backup-wordpress-installatron.md)
 * [SSL](technikalia/ssl.md)
@@ -27,3 +27,4 @@
 * [Domeny](technikalia/domeny.md)
 * [Skrypt JavaScript się nie odświeża](technikalia/skrypt-javascript-sie-nie-odswieza.md)
 * [Status działania - awarie, uptime, downtime usług onCloud9.io](technikalia/status-dzialania-awarie-uptime-downtime-uslug-oncloud9.io.md)
+* [Zakładanie konta](technikalia/zakladanie-konta.md)
