@@ -3,6 +3,7 @@ description: >-
   Ta Knowledge Base zawiera szczegółowy przewodnik do wykrywania infekcji
   WordPress, dedykowany zarówno programistom, jak i użytkownikom nietechnicznym.
   Opis symptomów infekcji, procedury odwirusowania.
+icon: shield-halved
 ---
 
 # Jak rozpoznać infekcję na Twojej stronie WordPress?

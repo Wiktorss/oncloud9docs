@@ -27,4 +27,4 @@
 * [Domeny](technikalia/domeny.md)
 * [Skrypt JavaScript się nie odświeża](technikalia/skrypt-javascript-sie-nie-odswieza.md)
 * [Status działania - awarie, uptime, downtime usług onCloud9.io](technikalia/status-dzialania-awarie-uptime-downtime-uslug-oncloud9.io.md)
-* [Zakładanie konta](technikalia/zakladanie-konta.md)
+* [Zakładanie konta](platnosci/zakladanie-konta.md)

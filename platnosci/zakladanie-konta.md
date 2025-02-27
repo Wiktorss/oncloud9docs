@@ -1,8 +1,8 @@
 ---
-icon: user
 description: >-
   Ta Knowledge Base zawiera szczegółowy przewodnik po zakładaniu konta na
   onCloud9, od wyboru planu subskrypcyjnego po zabezpieczenie danych logowania.
+icon: user
 ---
 
 # Zakładanie konta
