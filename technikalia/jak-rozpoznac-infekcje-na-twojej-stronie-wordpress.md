@@ -125,9 +125,7 @@ b) Zainstaluj aktualizacje oraz użyj rozwiązań zabezpieczających – zarówn
 
 Dodatkowo dla programistów oprócz stosowania standardowych narzędzi diagnostycznych (np. polecenia „find” w systemach UNIX, skrypty do porównywania sum kontrolnych), szczególnie zalecamy:
 
-• Regularne monitorowanie katalogów kluczowych (WP\_ROOT, wp-content/uploads/) za pomocą dedykowanych skryptów, które sprawdzają integralność plików.&#x20;
-
-• Używanie systemów kontroli wersji (np. Git) w celu śledzenia zmian w plikach systemowych WordPressa.&#x20;
-
-• Automatyczne powiadamianie o nietypowej aktywności za pomocą narzędzi analitycznych, które integrują się z systemami monitorującymi zasoby serwera.
+* &#x20;Regularne monitorowanie katalogów kluczowych (WP\_ROOT, wp-content/uploads/) za pomocą dedykowanych skryptów, które sprawdzają integralność plików.&#x20;
+* Używanie systemów kontroli wersji (np. Git) w celu śledzenia zmian w plikach systemowych WordPressa.&#x20;
+* &#x20;Automatyczne powiadamianie o nietypowej aktywności za pomocą narzędzi analitycznych, które integrują się z systemami monitorującymi zasoby serwera.
 
