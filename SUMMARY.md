@@ -28,3 +28,7 @@
 * [Skrypt JavaScript się nie odświeża](technikalia/skrypt-javascript-sie-nie-odswieza.md)
 * [Status działania - awarie, uptime, downtime usług onCloud9.io](technikalia/status-dzialania-awarie-uptime-downtime-uslug-oncloud9.io.md)
 * [Jak rozpoznać infekcję na Twojej stronie WordPress?](technikalia/jak-rozpoznac-infekcje-na-twojej-stronie-wordpress.md)
+
+***
+
+* [Release Logs](release-logs.md)
