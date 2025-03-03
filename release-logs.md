@@ -1,3 +1,7 @@
+---
+icon: hourglass-clock
+---
+
 # Release Logs
 
 {% tabs %}
