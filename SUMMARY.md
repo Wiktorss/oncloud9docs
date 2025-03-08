@@ -37,7 +37,4 @@
 ## Marketing
 
 * [Program Partnerski](marketing/program-partnerski.md)
-
-***
-
-* [Brandbook](brandbook.md)
+* [Brandbook](marketing/brandbook.md)
