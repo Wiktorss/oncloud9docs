@@ -54,3 +54,8 @@ Jeśli subskrypcje to nie Twój klimat, mamy coś dla tradycjonalistów:
 ### **Dlaczego subskrypcja w onCloud9 to najlepszy wybór?**
 
 Decydując się na subskrypcję, wybierasz stabilność i bezpieczeństwo, które rozwijają się razem z Tobą. Pieniądze? To tylko narzędzie. W onCloud9 dostajesz coś więcej – przyszłość. 🌌
+
+### Najczęściej zadawane pytania (FAQ)
+
+1. **Ojeju, Stripe? Mam tu podłączyć moją kartę debetową? Co to za twór szatana, ja chce zapłacić zwykłym tradycyjnym przekazem pocztowym co miesiąc, najlepiej za pobraniem.**
+   1. Oldschollowo jedynie udostępniamy płatność za rok z góry. Jeśli potrzebujesz oldschoolowe subskrybcji,no to sorry, tu musimy się rozstać. Nie chcemy marnować połowy swojego czasu na dorabianie sobie jako dział windykacji. Stripe jest bodajże największą bramką płątności na świecie, zaś ich transakcje są szyfrowane. Nie mamy dostępu do twojej karty bezpośrednio, to nie jest tak, że mamy bazę danych z danymi kart. To byłoby mega głupie. Właśnei dlatego korzystamy z tak dużego i znanego rozwiązania i płacimy im większą prowizję niż w mniejszych bramkach płatności, abyś Ty mógł/mogła czuć się bezpiecznie i my również.

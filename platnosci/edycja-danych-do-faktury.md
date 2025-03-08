@@ -25,11 +25,9 @@ Link do udostępnienia tego artykułu: [Edycja danych do faktury](https://onclou
 
 ### Najczęściej zadawane pytania (FAQ)
 
-* **Czy mogę edytować dane na już wystawionej fakturze?**\
-  Nie, zmiany dotyczą tylko przyszłych faktur. Skontaktuj się z zespołem wsparcia, jeśli potrzebujesz korekty.
-* **Co zrobić, jeśli coś zepsuję?**\
-  Stripe działa jak strażnik, ale jeśli potrzebujesz pomocy, napisz do nas. Razem naprawimy ten problem!
-* **Czy mogę zmienić dane, jeśli nie jestem płatnikiem VAT?**\
-  Tak, pole NIP/VAT ID jest opcjonalne. Jeśli go nie masz, po prostu je pomiń.
-* **Ojeju, Stripe? Mam tu podłączyć moją kartę debetową? Co to za twór szatana, ja chce zapłacić zwykłym tradycyjnym przekazem pocztowym co miesiąc, najlepiej za pobraniem.**\
-  Oldschollowo jedynie udostępniamy płatność za rok z góry. Jeśli potrzebujesz oldschoolowe subskrybcji,no to sorry, tu musimy się rozstać. Nie chcemy marnować połowy swojego czasu na dorabianie sobie jako dział windykacji. Stripe jest bodajże największą bramką płątności na świecie, zaś ich transakcje są szyfrowane. Nie mamy dostępu do twojej karty bezpośrednio, to nie jest tak, że mamy bazę danych z danymi kart. To byłoby mega głupie. Właśnei dlatego korzystamy z tak dużego i znanego rozwiązania i płacimy im większą prowizję niż w mniejszych bramkach płatności, abyś Ty mógł/mogła czuć się bezpiecznie i my również.
+* **Czy mogę edytować dane na już wystawionej fakturze?**
+  * Nie, zmiany dotyczą tylko przyszłych faktur. Skontaktuj się z zespołem wsparcia, jeśli potrzebujesz korekty.
+* **Co zrobić, jeśli coś zepsuję?**
+  * Stripe działa jak strażnik, ale jeśli potrzebujesz pomocy, napisz do nas. Razem naprawimy ten problem!
+* **Czy mogę zmienić dane, jeśli nie jestem płatnikiem VAT?**
+  * Tak, pole NIP/VAT ID jest opcjonalne. Jeśli go nie masz, po prostu je pomiń.
