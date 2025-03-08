@@ -24,6 +24,8 @@ Dodano funkcję Release Logs <mark style="color:green;">**\[NEW FEATURE]**</mark
 
 Własny panel instalacji domeny w DirectAdmin <mark style="color:green;">**\[NEW FEATURE]**</mark>&#x20;
 
+Przeprojektowana Szata Graficzna Strony Głównej onCloud9 <mark style="color:green;">**\[NEW FEATURE]**</mark>
+
 Sophia zaktualizowana do modelu ChatGPT 4.5 <mark style="color:yellow;">**\[IMPROVEMENT]**</mark>&#x20;
 
 DirectAdmin zaktualizowany do wersji 1.674 <mark style="color:yellow;">**\[IMPROVEMENT]**</mark>&#x20;
