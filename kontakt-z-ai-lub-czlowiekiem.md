@@ -16,34 +16,32 @@ _„Jeśli napotkasz trudności, nie martw się. AI przejmie kontrolę i rozwią
 
 #### Zdarza się, że coś przestaje działać, a Ty zaczynasz się zastanawiać, czy nie rzucić laptopem o ścianę? Zanim to zrobisz – zatrzymaj się!
 
-\
 W onCloud9 mamy system wsparcia, który działa 24/7 i pomoże Ci rozwiązać problem, zanim zdążysz o to poprosić.
 
 Nasze wsparcie jest prostsze, szybsze i bardziej efektywne niż kiedykolwiek – dzięki połączeniu sztucznej inteligencji z ludzką pomocą.
 
 ### Jak działa nasz system wsparcia?
 
-Kiedy masz problem, nasz system AI zacznie analizować sytuację natychmiastowo. Diagnozuje problem, udziela wskazówek i, jeśli jest to możliwe, rozwiązuje go samodzielnie. Jeśli AI nie poradzi sobie z rozwiązaniem problemu, przekieruje Cię automatycznie do **formularza zgłoszeniowego**.
+Kiedy masz problem, nasz system AI zacznie analizować sytuację natychmiastowo. Diagnozuje problem, udziela wskazówek i, jeśli jest to możliwe, rozwiązuje go samodzielnie. Jeśli AI nie poradzi sobie z rozwiązaniem problemu, przekieruje Cię automatycznie do **stworzenia ticketa zgłoszeniowego**.
 
 #### Co musisz zrobić?
 
 Jeśli system AI nie znajdzie rozwiązania, pojawi się opcja wypełnienia formularza, w którym wystarczy:
 
 1. Opisać, czego dotyczy problem.
-2. Podać adres e-mail do kontaktu.
-3. Wprowadzić adres e-mail przypisany do Twojego konta, jeśli je posiadasz.
+2. Podać adres e-mail do kontaktu (najlepiej wprowadzić adres e-mail przypisany do Twojego konta, jeśli je posiadasz).
 
 To proste! I jeśli chcesz – możesz również zawsze napisać na czacie „Proszę o kontakt z człowiekiem”, a nasz zespół wkrótce się z Tobą skontaktuje.
 
 #### Po co wypełniać formularz?
 
-Formularz zgłoszeniowy pomoże szybciej skierować Twój problem do odpowiedniego specjalisty. Dzięki temu nasz zespół może szybciej rozwiązać Twoje trudności, nie tracąc czasu na zbędne pytania.
+Formularz zgłoszeniowy pomoże szybciej skierować Twój problem do odpowiedniego specjalisty, bla\_bla\_bla\_korpo\_mowa.txt. Dzięki temu nasz zespół może szybciej rozwiązać Twoje trudności, nie tracąc czasu na zbędne pytania.
 
 #### Dlaczego warto skorzystać z AI i formularza zgłoszeniowego?
 
 * **Błyskawiczna diagnoza**: AI szybko identyfikuje problem i sugeruje rozwiązania, jeśli jest to możliwe.
 * **Bezproblemowy kontakt z człowiekiem**: Gdy AI nie rozwiąże problemu, masz bezpośredni dostęp do formularza, aby zgłosić sprawę do człowieka.
-* **24/7**: Nasze wsparcie działa bez przerwy, niezależnie od godziny. Problemy są diagnozowane i rozwiązywane na bieżąco.
+* **24/7**: Wsparcie Sophii działa bez przerwy, niezależnie od godziny. Problemy są diagnozowane i rozwiązywane na bieżąco. Jeśli wymagasz człowieka, to musisz trochę poczekać. Programiści są gatunkiem bardzo specyficznym, leniwym i najpierw trzeba ich zagonić do pracy.
 
 ### FAQ
 
