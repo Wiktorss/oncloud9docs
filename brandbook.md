@@ -1,5 +1,5 @@
 ---
-icon: copyright
+icon: file-image
 ---
 
 # Brandbook
