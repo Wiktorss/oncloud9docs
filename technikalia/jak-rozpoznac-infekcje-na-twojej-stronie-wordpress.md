@@ -8,7 +8,7 @@ description: >-
 
 # Jak rozpoznać infekcję na Twojej stronie WordPress?
 
-Link do udostępnienia tego artykułu: [Jak rozpoznać infekcję na Twojej stronie WordPress?](jak-rozpoznac-infekcje-na-twojej-stronie-wordpress.md)
+Link do udostępnienia tego artykułu: [Jak rozpoznać infekcję na Twojej stronie WordPress?](https://oncloud9.gitbook.io/docs/technikalia/jak-rozpoznac-infekcje-na-twojej-stronie-wordpress)
 
 Metody detekcji infekcji oraz sposoby postępowania w przypadku wykrycia niepożądanego kodu.
 

@@ -8,6 +8,8 @@ description: >-
 
 # Skrypt JavaScript się nie odświeża
 
+Link do udostępnienia tego artykułu: [Skrypt JavaScript się nie odświeża](https://oncloud9.gitbook.io/docs/technikalia/skrypt-javascript-sie-nie-odswieza)
+
 **Skrypt JavaScript się nie odświeża? Oto szybka naprawa!**
 
 Masz wrażenie, że Twój JavaScript nie odświeża się po wprowadzeniu zmian? Spokojnie, oto jak to ogarnąć w kilku prostych krokach. 😎

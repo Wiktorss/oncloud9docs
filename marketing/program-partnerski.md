@@ -4,7 +4,7 @@ icon: face-tongue-money
 
 # Program Partnerski
 
-Link do udostępnienia tego artykułu: [Program Partnerski](program-partnerski.md)
+Link do udostępnienia tego artykułu: [Program Partnerski](https://oncloud9.gitbook.io/docs/marketing/program-partnerski)
 
 ### Program Partnerski onCloud9.io: Szczegółowy Przewodnik
 
