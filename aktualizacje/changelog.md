@@ -42,8 +42,8 @@ AI Planer Stron oparty o Elementor Site Planer  <mark style="color:green;">**\[N
 {% endtab %}
 {% endtabs %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="roadmap.md" %}
+[roadmap.md](roadmap.md)
 {% endcontent-ref %}
 
 

@@ -22,3 +22,8 @@ Masz pomysł, co warto dodać w onCloud9? Powiedz Sophii, żeby przekazała to 
 |                                                                                                                                            | Sophia pomaga teraz w usuwaniu wirusów z WordPressa <mark style="color:blue;">**\[SECURITY]**</mark> [#id-0.8](changelog.md#id-0.8 "mention") | Własny panel instalacji domeny w DirectAdmin <mark style="color:green;">**\[NEW FEATURE]**</mark>  [#id-0.8](changelog.md#id-0.8 "mention")             | Dodano funkcję Release Logs <mark style="color:green;">**\[NEW FEATURE]**</mark> [#id-0.8](changelog.md#id-0.8 "mention")                        |
 |                                                                                                                                            |                                                                                                                                               | Przeprojektowana Szata Graficzna Strony Głównej onCloud9 <mark style="color:green;">**\[NEW FEATURE]**</mark>  [#id-0.8](changelog.md#id-0.8 "mention") |                                                                                                                                                  |
 
+
+
+{% content-ref url="changelog.md" %}
+[changelog.md](changelog.md)
+{% endcontent-ref %}
