@@ -10,6 +10,12 @@ description: >-
 
 Link do udostępnienia tego artykułu: [Algorytm optymalizacji psuje stronę](https://oncloud9.gitbook.io/docs/technikalia/algorytm-optymalizacji-psuje-strone)
 
+
+
+{% hint style="warning" %}
+Nasz hosting sam dynamicznie generuje cache i optymalizuje stronę, nie korzystaj z dodatkowych wtyczek ani ustawień, które mogą ingerować w kod strony, aby jej nie zepsuć. Przykładowo Elementor ma funkcję Element Caching, która jest fatalna i absolutnie jej nie włączaj!
+{% endhint %}
+
 ## Co zrobić, gdy nasz algorytm optymalizacji psuje Twoją stronę?
 
 Pisząc tę zakładkę, liczyłem, że nigdy nie będę musiał jej tworzyć dla nikogo. W głębi serca miałem nadzieję, że ta magiczna chwila, w której ktoś powie: „Wasz algorytm popsuł moją stronę", nigdy nie nadejdzie. Ale cóż, złośliwość rzeczy martwych, prawda? Zawsze znajdzie się ta jedna osoba, której coś pójdzie nie tak. Taka jest natura rzeczy – czasem coś musi pójść źle, żebyśmy mogli to naprawić. Oto więc, co zrobić, jeśli nasz algorytm optymalizacji rzeczywiście popsuje Ci stronę.
