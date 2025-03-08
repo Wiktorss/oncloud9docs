@@ -1,10 +1,13 @@
 ---
 icon: road
+description: >-
+  Ta Knowledge Base przedstawia nasz progress rozwojowy hostingu do najbliżej
+  aktualizacji, w  tym: Następne do zrobienia, W trakcie, Beta oraz Wydane.
 ---
 
 # Roadmap
 
-
+Link do udostępnienia tego artykułu: [Roadmap](https://oncloud9.gitbook.io/docs/aktualizacje/roadmap)
 
 
 

@@ -1,10 +1,14 @@
 ---
 icon: hourglass-clock
+description: >-
+  Ta Knowledge Base przedstawia listę funkcjonalności w obecnie trwającej
+  wersji, a także historycznych i planowanych aktualizacjach, w tym: [NEW
+  FEATURE], [IMPROVEMENT], [SECURITY] i [BUGFIX].
 ---
 
 # Changelog
 
-
+Link do udostępnienia tego artykułu: [Changelog](https://oncloud9.gitbook.io/docs/aktualizacje/changelog)
 
 {% hint style="info" %}
 Masz pomysł, co warto dodać w onCloud9? Powiedz Sophii, żeby przekazała to do ludzkiego zespołu, a stworzy ticketa do nas :)&#x20;
