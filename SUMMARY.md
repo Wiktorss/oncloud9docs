@@ -31,4 +31,4 @@
 
 ***
 
-* [Release Logs](release-logs.md)
+* [Changelog](changelog.md)
