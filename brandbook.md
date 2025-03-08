@@ -1,3 +1,7 @@
+---
+icon: copyright
+---
+
 # Brandbook
 
 Logotypy w wersji black i white.
