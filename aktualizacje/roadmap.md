@@ -1,8 +1,9 @@
 ---
 icon: road
 description: >-
-  Ta Knowledge Base przedstawia nasz progress rozwojowy hostingu do najbliżej
+  Ta Knowledge Base przedstawia nasz progress rozwojowy do najbliżej
   aktualizacji, w  tym: Następne do zrobienia, W trakcie, Beta oraz Wydane.
+  Dzielone na NEW FEATURE, IMPROVEMENT, SECURITY i BUGFIX.
 ---
 
 # Roadmap

@@ -2,8 +2,8 @@
 icon: hourglass-clock
 description: >-
   Ta Knowledge Base przedstawia listę funkcjonalności w obecnie trwającej
-  wersji, a także historycznych i planowanych aktualizacjach, w tym: [NEW
-  FEATURE], [IMPROVEMENT], [SECURITY] i [BUGFIX].
+  wersji, a także historycznych i planowanych aktualizacjach, w tym: NEW
+  FEATURE, IMPROVEMENT, SECURITY i BUGFIX.
 ---
 
 # Changelog
