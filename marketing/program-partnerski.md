@@ -4,6 +4,8 @@ icon: face-tongue-money
 
 # Program Partnerski
 
+Link do udostępnienia tego artykułu: [Program Partnerski](program-partnerski.md)
+
 ### Program Partnerski onCloud9.io: Szczegółowy Przewodnik
 
 Witaj w programie partnerskim onCloud9.io. Nasza oferta to nie tylko szansa na dodatkowy zarobek, ale przede wszystkim możliwość uczestniczenia w projekcie, który redefiniuje standardy etyczne w branży technologicznej.
