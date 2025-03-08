@@ -29,6 +29,7 @@
 * [Status działania - awarie, uptime, downtime usług onCloud9.io](technikalia/status-dzialania-awarie-uptime-downtime-uslug-oncloud9.io.md)
 * [Jak rozpoznać infekcję na Twojej stronie WordPress?](technikalia/jak-rozpoznac-infekcje-na-twojej-stronie-wordpress.md)
 
-***
+## Aktualizacje
 
-* [Changelog](changelog.md)
+* [Changelog](aktualizacje/changelog.md)
+* [Roadmap](aktualizacje/roadmap.md)
