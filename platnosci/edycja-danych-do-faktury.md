@@ -20,7 +20,9 @@ Link do udostępnienia tego artykułu: [Edycja danych do faktury](https://onclou
 
 Zaloguj się na swoje konto płatności onCloud9 z Stripe. Możesz to zrobić klikając [https://billing.stripe.com/p/login/00g3cS6HPgpOdZ6aEE](https://billing.stripe.com/p/login/00g3cS6HPgpOdZ6aEE).&#x20;
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/docs_oncloud9_tutorials.gif" alt="" width="563"><figcaption></figcaption></figure>
+
+
 {% endstep %}
 
 {% step %}
