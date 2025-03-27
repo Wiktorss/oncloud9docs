@@ -38,3 +38,7 @@
 
 * [Program Partnerski](marketing/program-partnerski.md)
 * [Brandbook](marketing/brandbook.md)
+
+***
+
+* [BrandBrief](brandbrief.md)
