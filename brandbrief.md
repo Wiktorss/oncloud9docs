@@ -9,22 +9,25 @@ Link do udostępnienia tego artykułu: [BrandBrief](brandbrief.md)
 
 
 
-BrandBrief dla kampanii influencer marketingowej: onCloud9 – Praktyczne Know-How dla InfluencerówCześć, Influencerze! Jeśli czytasz ten BrandBrief, to znaczy, że jesteś zainteresowany współpracą z onCloud9 – liderem w dostarczaniu szybkich, bezpiecznych i skalowalnych rozwiązań hostingowych dla WordPressa. Nasze plany, takie jak #PRO i #ULTRA, są stworzone z myślą o blogerach, deweloperach i małych oraz średnich firmach. Ten dokument to Twój kompletny przewodnik po kampanii – znajdziesz tu wszystko, co musisz wiedzieć, aby skutecznie promować onCloud9, a także szczegółowy opis, jak obliczymy Twoje wynagrodzenie. Naszym celem jest przejrzystość, motywacja i długoterminowa współpraca. Zaczynamy!
+### BrandBrief dla kampanii influencer marketingowej:
+
+onCloud9 – Praktyczne Know-How dla InfluencerówCześć, Influencerze! Jeśli czytasz ten BrandBrief, to znaczy, że jesteś zainteresowany współpracą z onCloud9 – liderem w dostarczaniu szybkich, bezpiecznych i skalowalnych rozwiązań hostingowych dla WordPressa. Nasze plany, takie jak #PRO i #ULTRA, są stworzone z myślą o blogerach, deweloperach i małych oraz średnich firmach. Ten dokument to Twój kompletny przewodnik po kampanii – znajdziesz tu wszystko, co musisz wiedzieć, aby skutecznie promować onCloud9, a także szczegółowy opis, jak obliczymy Twoje wynagrodzenie. Naszym celem jest przejrzystość, motywacja i długoterminowa współpraca. Zaczynamy!
 
 ***
 
-O co chodzi w kampanii?Cele kampanii:
+### O co chodzi w kampanii? Cele kampanii:
 
 * Zwiększenie rozpoznawalności marki onCloud9 wśród użytkowników WordPressa.
 * Zachęcenie do zakładania kont na plany hostingowe #PRO i #ULTRA.
 * Podkreślenie kluczowych zalet: szybkość, bezpieczeństwo i łatwość obsługi.
 
-Twoja rola:\
+#### Twoja rola:
+
 Jako influencer pomożesz nam dotrzeć do naszej grupy docelowej, tworząc angażujące treści, które pokażą, dlaczego warto wybrać onCloud9. Dostarczymy Ci wszystkie potrzebne informacje, a Ty zamienisz je w content, który trafi do Twoich obserwatorów.
 
 ***
 
-Do kogo mówimy?Nasza grupa docelowa to:
+### Do kogo mówimy? Nasza grupa docelowa to:
 
 * Blogerzy i twórcy treści na WordPressie.
 * Małe i średnie firmy z witrynami WordPress.
@@ -35,7 +38,9 @@ Twoje treści powinny trafiać w ich potrzeby – szybki hosting, bezpieczeństw
 
 ***
 
-Kluczowe przekazyW swoich postach, stories czy filmach podkreśl:
+### Kluczowe przekazy
+
+W swoich postach, stories czy filmach podkreśl:
 
 * „Z onCloud9 Twoja strona ładuje się błyskawicznie dzięki zoptymalizowanemu hostingowi WordPress.”
 * „Zadbaj o bezpieczeństwo z funkcjami jak ochrona DDoS i darmowy SSL.”
@@ -45,7 +50,7 @@ Kluczowe przekazyW swoich postach, stories czy filmach podkreśl:
 
 ***
 
-Wytyczne kreatywne
+### Wytyczne kreatywne
 
 * Ton: Profesjonalny, ale przystępny – mów o technologii w sposób zrozumiały i zachęcający.
 * Wizualizacje: Używaj wysokiej jakości zdjęć, zrzutów ekranu pokazujących szybkość strony, funkcje bezpieczeństwa lub panel onCloud9.
@@ -54,7 +59,7 @@ Wytyczne kreatywne
 
 ***
 
-Harmonogram kampanii
+### Harmonogram kampanii
 
 * Termin stworzenia treści: \[Wstaw konkretną datę].
 * Okres publikacji: \[Np. 1 miesiąc – podaj dokładny czas trwania].
@@ -62,7 +67,13 @@ Harmonogram kampanii
 
 ***
 
-Jak zarobisz? – Przejrzysty algorytm wynagrodzeniaW onCloud9 stawiamy na transparentność i atrakcyjne zarobki. Twój dochód składa się z dwóch części: stałej płatności bazowej i prowizji afiliacyjnej. Oto, jak to działa krok po kroku:Krok 1: Płatność bazowaTwoje wynagrodzenie bazowe zależy od:
+### Jak zarobisz? – Przejrzysty algorytm wynagrodzenia
+
+W onCloud9 stawiamy na transparentność i atrakcyjne zarobki. Twój dochód składa się z dwóch części: stałej płatności bazowej i prowizji afiliacyjnej. Oto, jak to działa krok po kroku:&#x20;
+
+#### Krok 1: Płatność bazowa.&#x20;
+
+Twoje wynagrodzenie bazowe zależy od:
 
 * Liczby obserwatorów: Im więcej masz followersów, tym więcej zarabiasz.
 * Wskaźnika zaangażowania (ER): Procent obserwatorów, którzy reagują na Twoje treści (lajki, komentarze, udostępnienia).
@@ -99,7 +110,7 @@ Przykład:\
 
 ***
 
-Barter czy gotówka?
+### Barter czy gotówka?
 
 * Barter (dla influencerów z <10 000 obserwatorów):
   * Darmowy hosting (np. plan #PRO, 25 PLN/miesiąc) na 3 miesiące.
@@ -109,7 +120,9 @@ Barter czy gotówka?
 
 ***
 
-Dlaczego warto z nami współpracować?
+### Dlaczego warto z nami współpracować?
+
+
 
 * Stała, wysoka prowizja: 40% na start i na zawsze – bez spadków, jak u konkurencji.
 * Premia za jakość: Wysoki ER i nisza technologiczna = wyższe zarobki.
@@ -117,11 +130,15 @@ Dlaczego warto z nami współpracować?
 
 ***
 
-Wymogi prawne
+### Wymogi prawne
 
-* Oznaczenie współpracy: W każdej treści dodaj #ad lub #sponsored.
-* Prawa do treści: onCloud9 może wykorzystać Twoje materiały w celach marketingowych (z oznaczeniem autora).
+
+
+* **Oznaczenie współpracy:** W każdej treści dodaj wszystkie wymagane przez UOKIK informacje. &#x20;
+* **Prawa do treści:** onCloud9 może wykorzystać Twoje materiały w celach marketingowych (z oznaczeniem autora).
 
 ***
 
-Masz pytania?Pisz do nas na \[wstaw email kontaktowy] – chętnie wyjaśnimy wszystko, co potrzebujesz wiedzieć.
+### Masz pytania?
+
+Poproś Sophię na chat o stworzenie zgłoszenia do nas - chętnie wyjaśnimy wszystko, co potrzebujesz wiedzieć.
