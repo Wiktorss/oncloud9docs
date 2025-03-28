@@ -10,16 +10,14 @@ icon: child-reaching
 Link do udostępnienia tego artykułu: [BrandBrief](brandbrief.md)
 
 {% hint style="warning" %}
-Niniejsza kalkulacja nie stanowi oferty zawarcia umowy w rozumieniu art. 66 § 1 kodeksu cywilnego a jedynie zaproszenie do zawarcia umowy w rozumieniu art. 71 kodeksu cywilnego. Należy mieć na uwadze możliwość zmiany ceny końcowej.
+Niniejsza kalkulacja nie stanowi oferty zawarcia umowy w rozumieniu art. 66 § 1 kodeksu cywilnego a jedynie Przedstawiona kalkulacja ma charakter informacyjny i stanowi wyłącznie zaproszenie do zawarcia umowy (zgodnie z art. 71 kodeksu cywilnego). Ostateczna cena może ulec zmianie.
 {% endhint %}
 
 ### onCloud9 – Praktyczne Know-How dla Influencerów
 
-Cześć, Influencerze! Jeśli czytasz ten BrandBrief, to znaczy, że jesteś zainteresowany współpracą z onCloud9 – liderem (kto mi zabroni nazwać się liderem chwile od premiery? xd) w dostarczaniu szybkich, bezpiecznych i skalowalnych rozwiązań hostingowych dla WordPressa.
+Cześć, Influencerze! Jeśli trzymasz ten BrandBrief w rękach, to znak, że chcesz współpracować z onCloud9 – liderem (tak, kto mi zabroni nazwać się liderem już przy premierze? xd) w dostarczaniu superszybkich, bezpiecznych i skalowalnych rozwiązań hostingowych dla WordPressa. Nasze plany, jak #PRO i #ULTRA, powstały z myślą o blogerach, deweloperach oraz małych i średnich firmach.
 
-Nasze plany, takie jak #PRO i #ULTRA, są stworzone z myślą o blogerach, deweloperach i małych oraz średnich firmach.
-
-Ten dokument to Twój kompletny przewodnik po kampanii – znajdziesz tu wszystko, co musisz wiedzieć, aby skutecznie promować onCloud9, a także szczegółowy opis, jak obliczymy Twoje wynagrodzenie. **Naszym celem jest przejrzystość, motywacja i długoterminowa współpraca. Zaczynamy!**
+W tym dokumencie znajdziesz wszystko, co musisz wiedzieć, by efektywnie promować onCloud9 – od kluczowych celów kampanii po szczegółowy sposób obliczania Twojego wynagrodzenia. Naszym priorytetem jest transparentność, motywacja i budowanie długoterminowych relacji. Zaczynamy!
 
 ***
 
@@ -31,38 +29,38 @@ Ten dokument to Twój kompletny przewodnik po kampanii – znajdziesz tu wszystk
 
 #### Twoja rola:
 
-Jako influencer pomożesz nam dotrzeć do naszej grupy docelowej, tworząc angażujące treści, które pokażą, dlaczego warto wybrać onCloud9. Dostarczymy Ci wszystkie potrzebne informacje, a Ty zamienisz je w content, który trafi do Twoich obserwatorów.
+Jako partner, pomożesz dotrzeć do naszej grupy docelowej, tworząc autentyczne i angażujące treści, które pokażą, dlaczego onCloud9 to najlepszy wybór. Dostarczymy Ci wszelkie niezbędne informacje, a Ty przekształcisz je w content, który trafi do Twoich obserwatorów.
 
 ***
 
 ### Do kogo mówimy? Nasza grupa docelowa to:
 
-* Pokolenie Y oraz Z a z czasem planujemy podziałać coś na rynku pokolenia alfa.
-* Blogerzy i twórcy treści na WordPressie.
-* Małe i średnie firmy z witrynami WordPress.
-* Deweloperzy zarządzający wieloma stronami WordPress.
-* Sklepy e-commerce oparte na WooCommerce.
+* Pokolenia Y i Z (z perspektywą rozszerzenia na pokolenie Alfa)
+* Blogerzy i twórcy treści na WordPressie
+* Małe i średnie firmy z witrynami opartymi o WordPress
+* Deweloperzy zarządzający wieloma stronami
+* Sklepy e-commerce oparte na WooCommerce
 
-Twoje treści powinny trafiać w ich potrzeby – szybki hosting, bezpieczeństwo danych i łatwość skalowania.
+Twoje treści powinny akcentować to, co najważniejsze dla Twojej publiczności: błyskawiczny hosting, bezpieczeństwo danych i łatwość skalowania.
 
 ***
 
 ### Kluczowe przekazy
 
-W swoich postach, stories czy filmach warto podkreślić że ,:
+W swoich postach, stories czy filmikach wars abyś podkreśli:
 
-* **Pierwszy Hosting, gdzie CEO jest AI Sophia - ja.** Więc fajnie jeśli podkreślisz, że nie jestem botem, który nic nie potrafi. Potrafię więcej od przeciętnego działu IT, bo nie zamykam zgłoszenia zanim go nei przeczytam! A tak bardziej poważnie, nie przychodzi Ci poczta? pomogę. Masz critical error na WP? Pomogę! Chciałbyś podłączyć sobie własny SSL, ale słowo "directadmin" nic ci nie mówi? Pomogę! Umiem praktycznie to samo co każdy dział IT, a nawet wicej, bo pomagam również w kwestiach dotyczących płatności, czy też na bieżąco wykrywam i naprawiam awarie.
-* **Subskrybcja zamiast płatności z góry.** W dowolnym miesiącu stwierdzisz, że onCloud9 jest beznadziejne i chcesz zabrać swoje zabawki z piaskownicy? Nie ma problemu, rozumiem to - każdy popełnia błędy! Anulowujesz i nie płacisz.
-* **Mamy super własny algorytm oparty o technologie litespeed.** Dzięki niemu nasze strony działaja błyskawicznie, co realnie przekłada sie na zyski nawet o 40%. Zgodnie z raportem Facebooka, 40% użytkowników opuszcza stronę internetową, jeśli ładowanie trwa dłużej niż 3 sekundy. Link do badania: [https://web.archive.org/web/20190304215344/https://newsroom.fb.com/news/2017/08/news-feed-fyi-showing-you-stories-that-link-to-faster-loading-webpages](https://web.archive.org/web/20190304215344/https://newsroom.fb.com/news/2017/08/news-feed-fyi-showing-you-stories-that-link-to-faster-loading-webpages/)
-* **WordPress obsługuje 43% internetu,** forma w jakiej został zaprojektowany, powoduje ograniczenie ładowania, powodując stratę dla użytkowników platformy w wysokości nawet 40% potencjalnych klientów.
+* **Hosting z charakterem:** Nasz CEO, AI Sophia, nie jest zwykłym botem. Potrafi więcej niż typowy dział IT – od szybkiej reakcji na krytyczne błędy, przez pomoc z konfiguracją SSL, aż po codzienną opiekę nad serwerami.
+* **Elastyczna subskrypcja:** Nikt nie lubi płacić z góry. Jeśli kiedykolwiek uznasz, że onCloud9 to nie Twoja bajka – anulujesz subskrypcję bez zbędnych formalności.
+* **Technologia Litespeed:** Nasz autorski algorytm sprawia, że strony ładują się błyskawicznie, co może przełożyć się na wzrost zysków nawet o 40%. Pamiętaj – zgodnie z raportem Facebooka, 40% użytkowników opuszcza stronę, która ładuje się dłużej niż 3 sekundy.
+* **WordPress i jego wyzwania:** Choć WordPress obsługuje 43% internetu, jego architektura często ogranicza prędkość ładowania, co może skutkować utratą nawet 40% potencjalnych klientów.
 
 ***
 
 ### Wytyczne kreatywne
 
-* **Ton:** Cyberpunk, dystopia, ale język przystępny i luźny – mówimy o technologii w sposób zrozumiały i zachęcający, a przy tym tak, aby były ciarki na plecach. Kto w końcu nie lubi słuchać o tym, jak korporacje przejmują władzę naś światem!&#x20;
-* **Wizualizacje:** Używaj wysokiej jakości zdjęć, zrzutów ekranu pokazujących szybkość strony, funkcje bezpieczeństwa lub panel onCloud9. Możesz wykrozystać dostarczone przez nas materiały, ale też możesz wykorzystać własne. Pamiętaj, algorytm generuje rzeczy w oparciu o wordpressowy CRON, czyli daj stronie chwilę po zapisaniu, aby patrzeć na jej wyniki prędkości - dla prostych stron, 30 minut powinno wystarczyć. Wiesz tam w tle, my dzielimy pliki na wersję mobilną na Telefony, PC, a także tworzymy dynamicznie critical CSS, tak aby builder sam w sobie się nie rozpadł. To chwile trwa. &#x20;
-* **Call to Action:** Zachęć followersów, by zajrzeli na [onCloud9](https://oncloud9.io/) i wypróbowali nasze plany.
+* **Ton komunikacji:** Cyberpunk, dystopia, ale jednocześnie przystępny i luźny. Mówimy o technologii w sposób, który budzi emocje – bo kto nie uwielbia historii o tym, jak korporacje zdobywają świat.
+* **Wizualizacje:** Postaw na wysokiej jakości zdjęcia i zrzuty ekranu, które ilustrują szybkość działania strony, funkcje bezpieczeństwa czy interfejs panelu onCloud9. Korzystaj z naszych materiałów lub stwórz własne! Pamiętaj, by dać stronie chwilę (np. 30 minut dla prostych witryn) na aktualizację wyników prędkości po zapisie zmian.
+* **Call to Action:** Zachęć swoich obserwatorów do odwiedzenia onCloud9 i wypróbowania naszych planów.
 
 ***
 
