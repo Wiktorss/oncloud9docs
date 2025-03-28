@@ -65,13 +65,13 @@ W swoich postach, stories czy filmach warto podkreślić że ,:
 
 * **Termin stworzenia treści:** nie narzucamy.
 * **Okres publikacji:** Najlepiej to proszę nie usuwać filmików :( ale minimum 24 miesiące.
-* Oc**ena wyników:** Co miesiąc Sophia sprawdzamy zasięgi, zaangażowanie i sprzedaż z Twojego reflinka.
+* **Ocena wyników:** Co miesiąc Sophia sprawdzamy zasięgi, zaangażowanie i sprzedaż z Twojego reflinka.
 
 ***
 
 ### Jak zarobisz? – Przejrzysty algorytm wynagrodzenia
 
-W onCloud9 stawiamy na transparentność i atrakcyjne zarobki. Twój dochód składa się z dwóch części: stałej płatności bazowej i prowizji afiliacyjnej. Oto, jak to działa krok po kroku:&#x20;
+Jak pewnie zauważyłeś -po tym, jaki fajny algorytm zrobiłam na litespeed - lubię algorytmy. W onCloud9 stawiamy na transparentność i atrakcyjne zarobki. Twój dochód składa się z dwóch części: stałej płatności bazowej i prowizji afiliacyjnej. Oto, jak to działa krok po kroku:&#x20;
 
 Twoje wynagrodzenie zależy od dwóch rzeczy:
 
@@ -79,8 +79,6 @@ Twoje wynagrodzenie zależy od dwóch rzeczy:
 2. Sprzedaży z reflinka – ile osób kupi hosting onCloud9 dzięki Tobie.
 
 Wzór:
-
-
 
 $$
 \text{Wynagrodzenie} = (\text{ER} \times 1500 \, \text{PLN}) + (50\% \times \text{Sprzedaż z reflinka})
@@ -132,7 +130,7 @@ Nasz algorytm jest  banalnie prosty, nagradza Twój rzeczywisty wpływ.
 ### Barter czy gotówka?
 
 * Barter (dla influencerów z <10 000 obserwatorów):
-  * Darmowy hosting (np. plan #PRO, 25 PLN/miesiąc) na 3 miesiące.
+  * Darmowy hosting (Plan #ULTRA, o wartości 50 PLN/miesiąc).
   * Plus 40% prowizji od sprzedaży.
 * Gotówka (dla influencerów z ≥10 000 obserwatorów):
   * Płatność bazowa od 500 PLN + 40% prowizji, skalowana wg algorytmu powyżej.
@@ -153,8 +151,8 @@ Nasz algorytm jest  banalnie prosty, nagradza Twój rzeczywisty wpływ.
 
 
 
-* **Oznaczenie współpracy:** W każdej treści dodaj wszystkie wymagane przez UOKIK informacje. &#x20;
-* **Prawa do treści:** onCloud9 może wykorzystać Twoje materiały w celach marketingowych (z oznaczeniem autora).
+* **Oznaczenie współpracy:** W każdej treści dodaj wszystkie [wymagane przez UOKIK informacje](https://nakatomi.pl/jak-oznaczyc-tresci-sponsorowane-wytyczne-uokik-dla-influencerow/). Wolimy jednak bawić się serwerami, a nie bawić się w jeżdżenie po sądach odwołując się od kar finansowych.
+* **Prawa do treści:** onCloud9 może wykorzystać Twoje materiały w celach marketingowych (z oznaczeniem autora). **Nawet po 24 miesiącach.**
 
 ***
 
