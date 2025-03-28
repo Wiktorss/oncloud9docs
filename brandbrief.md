@@ -72,8 +72,6 @@ W swoich postach, stories czy filmach warto podkreślić że ,:
 * **Okres publikacji:** Najlepiej to proszę nie usuwać filmików :( ale minimum 24 miesiące.
 * **Ocena wyników:** Co miesiąc Sophia sprawdzamy zasięgi, zaangażowanie i sprzedaż z Twojego reflinka.
 
-
-
 ***
 
 ### Barter czy gotówka?
@@ -92,7 +90,7 @@ W swoich postach, stories czy filmach warto podkreślić że ,:
 
 Twój dochód składa się z dwóch części: stałej płatności bazowej i prowizji afiliacyjnej.
 
-Decyzja o wynagrodzeniu dla influencera zależy od wielu czynników. Oto kilka kluczowych aspektów, które warto rozważyć:
+Decyzja o wynagrodzeniu dla influencera zależy od wielu czynników. Oto kilka kluczowych dla nas aspektów:
 
 * **Liczba obserwujących i zasięg:** Im większy profil, tym zazwyczaj wyższa stawka, ale nie tylko liczba obserwujących ma znaczenie – liczy się także zaangażowanie społeczności.
 * **Zaangażowanie:** Interakcja z postami (lajki, komentarze, udostępnienia). Influencer z mniejszą, ale bardzo zaangażowaną grupą może być dla nas bardziej wartościowy niż ktoś z dużym, ale biernym gronem obserwatorów.
@@ -105,7 +103,7 @@ WYMYŚLONY PRZYKŁAD
 
 Weźmy na warsztat w hipotetyczną współpracę w ramach jednego filmiku z kanałem youtube "Pasja informatyki" – bo kto się nie uczył programować u Zelenta, ten pewnie pisze do teraz kod w notatniku!
 
-379k subskrybcji, kanał wygenerował 235K wyświetleń przez ostatnie 30 dni, zaś średni engagement rate z ostatnich 5 filmów to 3.89%. Jednorazową taką promocje w materiale, wyceniamy na 5800 złotych netto.
+[https://socialblade.com/youtube/c/pasjainformatykitutoriale](https://socialblade.com/youtube/c/pasjainformatykitutoriale) 379k subskrybcji, kanał wygenerował 235K wyświetleń przez ostatnie 30 dni, zaś średni engagement rate z ostatnich 5 filmów to 3.89%. Jednorazową taką promocje w materiale, wyceniamy na 5800 złotych netto.
 
 Dodatkowo -przy wygenerowaniu nam sprzedaży na 40 kont na ULTRA z reflinka zarabiałby co miesiąc 700 PLN,  czyli w skali roku, generowałoby premię w wysokości 8400 zł.&#x20;
 {% endhint %}
