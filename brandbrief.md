@@ -1,5 +1,7 @@
 ---
-description: Influencer Content Guidelines
+description: >-
+  BrandBrief dla kampanii influencer marketingowej: Influencer Content
+  Guidelines oraz zarobki.
 icon: child-reaching
 ---
 
@@ -7,11 +9,13 @@ icon: child-reaching
 
 Link do udostępnienia tego artykułu: [BrandBrief](brandbrief.md)
 
+### onCloud9 – Praktyczne Know-How dla Influencerów
 
+Cześć, Influencerze! Jeśli czytasz ten BrandBrief, to znaczy, że jesteś zainteresowany współpracą z onCloud9 – liderem (kto mi zabroni nazwać się liderem chwile od premiery? xd) w dostarczaniu szybkich, bezpiecznych i skalowalnych rozwiązań hostingowych dla WordPressa.
 
-### BrandBrief dla kampanii influencer marketingowej:
+Nasze plany, takie jak #PRO i #ULTRA, są stworzone z myślą o blogerach, deweloperach i małych oraz średnich firmach.
 
-onCloud9 – Praktyczne Know-How dla InfluencerówCześć, Influencerze! Jeśli czytasz ten BrandBrief, to znaczy, że jesteś zainteresowany współpracą z onCloud9 – liderem w dostarczaniu szybkich, bezpiecznych i skalowalnych rozwiązań hostingowych dla WordPressa. Nasze plany, takie jak #PRO i #ULTRA, są stworzone z myślą o blogerach, deweloperach i małych oraz średnich firmach. Ten dokument to Twój kompletny przewodnik po kampanii – znajdziesz tu wszystko, co musisz wiedzieć, aby skutecznie promować onCloud9, a także szczegółowy opis, jak obliczymy Twoje wynagrodzenie. Naszym celem jest przejrzystość, motywacja i długoterminowa współpraca. Zaczynamy!
+Ten dokument to Twój kompletny przewodnik po kampanii – znajdziesz tu wszystko, co musisz wiedzieć, aby skutecznie promować onCloud9, a także szczegółowy opis, jak obliczymy Twoje wynagrodzenie. **Naszym celem jest przejrzystość, motywacja i długoterminowa współpraca. Zaczynamy!**
 
 ***
 
@@ -29,6 +33,7 @@ Jako influencer pomożesz nam dotrzeć do naszej grupy docelowej, tworząc anga�
 
 ### Do kogo mówimy? Nasza grupa docelowa to:
 
+* Pokolenie Y oraz Z a z czasem planujemy podziałać coś na rynku pokolenia alfa.
 * Blogerzy i twórcy treści na WordPressie.
 * Małe i średnie firmy z witrynami WordPress.
 * Deweloperzy zarządzający wieloma stronami WordPress.
@@ -40,30 +45,27 @@ Twoje treści powinny trafiać w ich potrzeby – szybki hosting, bezpieczeństw
 
 ### Kluczowe przekazy
 
-W swoich postach, stories czy filmach podkreśl:
+W swoich postach, stories czy filmach warto podkreślić że ,:
 
-* „Z onCloud9 Twoja strona ładuje się błyskawicznie dzięki zoptymalizowanemu hostingowi WordPress.”
-* „Zadbaj o bezpieczeństwo z funkcjami jak ochrona DDoS i darmowy SSL.”
-* „Łatwo zarządzaj stroną dzięki automatycznej instalacji WordPressa i backupom.”
-* „Rozwijaj się bez ograniczeń – skaluj plan hostingowy razem ze swoją stroną.”
-* „Ciesz się globalną dystrybucją danych i lepszą wydajnością na całym świecie.”
+* **Pierwszy Hosting, gdzie CEO jest AI Sophia - ja.** Więc fajnie jeśli podkreślisz, że nie jestem botem, który nic nie potrafi. Potrafię więcej od przeciętnego działu IT, bo nie zamykam zgłoszenia zanim go nei przeczytam! A tak bardziej poważnie, nie przychodzi Ci poczta? pomogę. Masz critical error na WP? Pomogę! Chciałbyś podłączyć sobie własny SSL, ale słowo "directadmin" nic ci nie mówi? Pomogę! Umiem praktycznie to samo co każdy dział IT, a nawet wicej, bo pomagam również w kwestiach dotyczących płatności, czy też na bieżąco wykrywam i naprawiam awarie.
+* **Subskrybcja zamiast płatności z góry.** W dowolnym miesiącu stwierdzisz, że onCloud9 jest beznadziejne i chcesz zabrać swoje zabawki z piaskownicy? Nie ma problemu, rozumiem to - każdy popełnia błędy! Anulowujesz i nie płacisz.
+* Mamy super własny algorytm oparty o technologie litespeed. Dzięki niemu nasze strony działaja błyskawicznie, co realnie przekłada sie na zyski nawet o 40%. Zgodnie z raportem Facebooka, 40% użytkowników opuszcza stronę internetową, jeśli ładowanie trwa dłużej niż 3 sekundy. Link do badania: [https://web.archive.org/web/20190304215344/https://newsroom.fb.com/news/2017/08/news-feed-fyi-showing-you-stories-that-link-to-faster-loading-webpages](https://web.archive.org/web/20190304215344/https://newsroom.fb.com/news/2017/08/news-feed-fyi-showing-you-stories-that-link-to-faster-loading-webpages/)
 
 ***
 
 ### Wytyczne kreatywne
 
-* Ton: Profesjonalny, ale przystępny – mów o technologii w sposób zrozumiały i zachęcający.
-* Wizualizacje: Używaj wysokiej jakości zdjęć, zrzutów ekranu pokazujących szybkość strony, funkcje bezpieczeństwa lub panel onCloud9.
-* Hashtagi: Dodawaj #onCloud9Hosting i #WordPressHosting do wszystkich treści.
-* Call to Action: Zachęć followersów, by zajrzeli na [onCloud9](https://oncloud9.io/) i wypróbowali nasze plany.
+* **Ton:** Cyberpunk, dystopia, ale język przystępny i luźny – mówimy o technologii w sposób zrozumiały i zachęcający, a przy tym tak, aby były ciarki na plecach. Kto w końcu nie lubi słuchać o tym, jak korporacje przejmują władzę naś światem!&#x20;
+* **Wizualizacje:** Używaj wysokiej jakości zdjęć, zrzutów ekranu pokazujących szybkość strony, funkcje bezpieczeństwa lub panel onCloud9. Możesz wykrozystać dostarczone przez nas materiały, ale też możesz wykorzystać własne. Pamiętaj, algorytm generuje rzeczy w oparciu o wordpressowy CRON, czyli daj stronie chwilę po zapisaniu, aby patrzeć na jej wyniki prędkości - dla prostych stron, 30 minut powinno wystarczyć. Wiesz tam w tle, my dzielimy pliki na wersję mobilną na Telefony, PC, a także tworzymy dynamicznie critical CSS, tak aby builder sam w sobie się nie rozpadł. To chwile trwa. &#x20;
+* **Call to Action:** Zachęć followersów, by zajrzeli na [onCloud9](https://oncloud9.io/) i wypróbowali nasze plany.
 
 ***
 
 ### Harmonogram kampanii
 
-* Termin stworzenia treści: \[Wstaw konkretną datę].
-* Okres publikacji: \[Np. 1 miesiąc – podaj dokładny czas trwania].
-* Ocena wyników: Co miesiąc sprawdzamy zasięgi, zaangażowanie i sprzedaż z Twojego reflinka.
+* **Termin stworzenia treści:** nie narzucamy.
+* **Okres publikacji:** Najlepiej to proszę nie usuwać filmików :( ale minimum 24 miesiące.
+* Oc**ena wyników:** Co miesiąc Sophia sprawdzamy zasięgi, zaangażowanie i sprzedaż z Twojego reflinka.
 
 ***
 
