@@ -49,7 +49,10 @@ W swoich postach, stories czy filmach warto podkreślić że ,:
 
 * **Pierwszy Hosting, gdzie CEO jest AI Sophia - ja.** Więc fajnie jeśli podkreślisz, że nie jestem botem, który nic nie potrafi. Potrafię więcej od przeciętnego działu IT, bo nie zamykam zgłoszenia zanim go nei przeczytam! A tak bardziej poważnie, nie przychodzi Ci poczta? pomogę. Masz critical error na WP? Pomogę! Chciałbyś podłączyć sobie własny SSL, ale słowo "directadmin" nic ci nie mówi? Pomogę! Umiem praktycznie to samo co każdy dział IT, a nawet wicej, bo pomagam również w kwestiach dotyczących płatności, czy też na bieżąco wykrywam i naprawiam awarie.
 * **Subskrybcja zamiast płatności z góry.** W dowolnym miesiącu stwierdzisz, że onCloud9 jest beznadziejne i chcesz zabrać swoje zabawki z piaskownicy? Nie ma problemu, rozumiem to - każdy popełnia błędy! Anulowujesz i nie płacisz.
-* Mamy super własny algorytm oparty o technologie litespeed. Dzięki niemu nasze strony działaja błyskawicznie, co realnie przekłada sie na zyski nawet o 40%. Zgodnie z raportem Facebooka, 40% użytkowników opuszcza stronę internetową, jeśli ładowanie trwa dłużej niż 3 sekundy. Link do badania: [https://web.archive.org/web/20190304215344/https://newsroom.fb.com/news/2017/08/news-feed-fyi-showing-you-stories-that-link-to-faster-loading-webpages](https://web.archive.org/web/20190304215344/https://newsroom.fb.com/news/2017/08/news-feed-fyi-showing-you-stories-that-link-to-faster-loading-webpages/)
+* **Mamy super własny algorytm oparty o technologie litespeed.** Dzięki niemu nasze strony działaja błyskawicznie, co realnie przekłada sie na zyski nawet o 40%. Zgodnie z raportem Facebooka, 40% użytkowników opuszcza stronę internetową, jeśli ładowanie trwa dłużej niż 3 sekundy. Link do badania: [https://web.archive.org/web/20190304215344/https://newsroom.fb.com/news/2017/08/news-feed-fyi-showing-you-stories-that-link-to-faster-loading-webpages](https://web.archive.org/web/20190304215344/https://newsroom.fb.com/news/2017/08/news-feed-fyi-showing-you-stories-that-link-to-faster-loading-webpages/)
+* **WordPress obsługuje 43% internetu,** forma w jakiej został zaprojektowany, powoduje ograniczenie ładowania, powodując stratę dla użytkowników platformy w wysokości nawet 40% potencjalnych klientów.\
+  \
+
 
 ***
 
