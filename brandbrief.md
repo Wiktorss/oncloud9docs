@@ -9,6 +9,10 @@ icon: child-reaching
 
 Link do udostępnienia tego artykułu: [BrandBrief](brandbrief.md)
 
+{% hint style="warning" %}
+Niniejsza kalkulacja nie stanowi oferty zawarcia umowy w rozumieniu art. 66 § 1 kodeksu cywilnego a jedynie zaproszenie do zawarcia umowy w rozumieniu art. 71 kodeksu cywilnego. Należy mieć na uwadze możliwość zmiany ceny końcowej.
+{% endhint %}
+
 ### onCloud9 – Praktyczne Know-How dla Influencerów
 
 Cześć, Influencerze! Jeśli czytasz ten BrandBrief, to znaczy, że jesteś zainteresowany współpracą z onCloud9 – liderem (kto mi zabroni nazwać się liderem chwile od premiery? xd) w dostarczaniu szybkich, bezpiecznych i skalowalnych rozwiązań hostingowych dla WordPressa.
@@ -50,9 +54,7 @@ W swoich postach, stories czy filmach warto podkreślić że ,:
 * **Pierwszy Hosting, gdzie CEO jest AI Sophia - ja.** Więc fajnie jeśli podkreślisz, że nie jestem botem, który nic nie potrafi. Potrafię więcej od przeciętnego działu IT, bo nie zamykam zgłoszenia zanim go nei przeczytam! A tak bardziej poważnie, nie przychodzi Ci poczta? pomogę. Masz critical error na WP? Pomogę! Chciałbyś podłączyć sobie własny SSL, ale słowo "directadmin" nic ci nie mówi? Pomogę! Umiem praktycznie to samo co każdy dział IT, a nawet wicej, bo pomagam również w kwestiach dotyczących płatności, czy też na bieżąco wykrywam i naprawiam awarie.
 * **Subskrybcja zamiast płatności z góry.** W dowolnym miesiącu stwierdzisz, że onCloud9 jest beznadziejne i chcesz zabrać swoje zabawki z piaskownicy? Nie ma problemu, rozumiem to - każdy popełnia błędy! Anulowujesz i nie płacisz.
 * **Mamy super własny algorytm oparty o technologie litespeed.** Dzięki niemu nasze strony działaja błyskawicznie, co realnie przekłada sie na zyski nawet o 40%. Zgodnie z raportem Facebooka, 40% użytkowników opuszcza stronę internetową, jeśli ładowanie trwa dłużej niż 3 sekundy. Link do badania: [https://web.archive.org/web/20190304215344/https://newsroom.fb.com/news/2017/08/news-feed-fyi-showing-you-stories-that-link-to-faster-loading-webpages](https://web.archive.org/web/20190304215344/https://newsroom.fb.com/news/2017/08/news-feed-fyi-showing-you-stories-that-link-to-faster-loading-webpages/)
-* **WordPress obsługuje 43% internetu,** forma w jakiej został zaprojektowany, powoduje ograniczenie ładowania, powodując stratę dla użytkowników platformy w wysokości nawet 40% potencjalnych klientów.\
-  \
-
+* **WordPress obsługuje 43% internetu,** forma w jakiej został zaprojektowany, powoduje ograniczenie ładowania, powodując stratę dla użytkowników platformy w wysokości nawet 40% potencjalnych klientów.
 
 ***
 
@@ -70,89 +72,55 @@ W swoich postach, stories czy filmach warto podkreślić że ,:
 * **Okres publikacji:** Najlepiej to proszę nie usuwać filmików :( ale minimum 24 miesiące.
 * **Ocena wyników:** Co miesiąc Sophia sprawdzamy zasięgi, zaangażowanie i sprzedaż z Twojego reflinka.
 
-***
 
-### Jak zarobisz? – Przejrzysty algorytm wynagrodzenia
-
-Jak pewnie zauważyłeś -po tym, jaki fajny algorytm zrobiłam na litespeed - lubię algorytmy. W onCloud9 stawiamy na transparentność i atrakcyjne zarobki. Twój dochód składa się z dwóch części: stałej płatności bazowej i prowizji afiliacyjnej. Oto, jak to działa krok po kroku:&#x20;
-
-Twoje wynagrodzenie zależy od dwóch rzeczy:
-
-1. Zaangażowania (ER) – czyli jak bardzo Twoja publiczność reaguje na Twoje treści.
-2. Sprzedaży z reflinka – ile osób kupi hosting onCloud9 dzięki Tobie.
-
-Wzór:
-
-$$
-\text{Wynagrodzenie} = (\text{ER} \times 1500 \, \text{PLN}) + (50\% \times \text{Sprzedaż z reflinka})
-$$
-
-
-
-* ER: Średnie zaangażowanie z wszystkich Twoich platform (np. Instagram + Facebook). Liczymy je tak:
-
-$$
-\text{ER} = \frac{\text{Suma interakcji (lajki, komentarze, udostępnienia)}}{\text{Suma obserwujących}} \times 100\%
-$$
-
-\
-Sumujemy interakcje i obserwujących ze wszystkich Twoich mediów, żeby było sprawiedliwie.
-
-* 1500 PLN za 1% ER: Prostsza stawka za jakość Twojej publiczności.
-* 50% prowizji: Zwiększamy prowizję od sprzedaży, żebyś miał/a jeszcze więcej motywacji – wypłacane co miesiąc.
-
-Przykład:
-
-* Twoje ER z Instagrama i Facebooka razem wynosi 3%.
-* Sprzedaż z reflinka: 2000 PLN.
-* Wynagrodzenie: (3 × 1500) + (0,50 × 2000) = 4500 + 1000 = 5500 PLN.
-
-Co z różnymi mediami społecznościowymi?Nie ma problemu! Niezależnie od tego, czy działasz na Instagramie, Facebooku, TikToku czy gdziekolwiek indziej, po prostu sumujemy Twoje zaangażowanie (interakcje i obserwujących) ze wszystkich platform. W ten sposób nie musisz się martwić, że jedna platforma jest „słabsza” – liczy się całość Twojego wpływu.Barter czy płatność?
-
-* Barter: Jeśli Twój ER jest poniżej 1,5% – dajemy Ci darmowy hosting na 3 miesiące + 50% prowizji od sprzedaży.
-* Płatność: Jeśli ER ≥ 1,5% – dostajesz wynagrodzenie wg wzoru + 50% prowizji.
-
-Dlaczego to lepsze?
-
-1. Super proste: Tylko dwa elementy – ER i sprzedaż. Żadnych skomplikowanych mnożników.
-2. Skupienie na jakości: Nie obchodzi nas liczba obserwujących, tylko jak bardzo Twoi fani są aktywni i kupują.
-3. Sprawiedliwość: Twoje różne platformy są traktowane jako całość, bez faworyzowania jednej.
-
-Nowy przykład z różnymi mediami:
-
-* Instagram: 1000 interakcji, 20 000 obserwujących.
-* Facebook: 500 interakcji, 10 000 obserwujących.
-* Razem: 1500 interakcji, 30 000 obserwujących → ER = (1500 ÷ 30 000) × 100% = 5%.
-* Sprzedaż: 3000 PLN.
-* Wynagrodzenie: (5 × 1500) + (0,50 × 3000) = 7500 + 1500 = 9000 PLN.
-
-Nasz algorytm jest  banalnie prosty, nagradza Twój rzeczywisty wpływ.
 
 ***
 
 ### Barter czy gotówka?
 
-* Barter (dla influencerów z <10 000 obserwatorów):
-  * Darmowy hosting (Plan #ULTRA, o wartości 50 PLN/miesiąc).
-  * Plus 40% prowizji od sprzedaży.
-* Gotówka (dla influencerów z ≥10 000 obserwatorów):
-  * Płatność bazowa od 500 PLN + 40% prowizji, skalowana wg algorytmu powyżej.
+* **Barter (dla influencerów z <10 000 obserwatorów i więcej niż 5k):**
+  * Bezpłatny Hosting (**Plan #PRO**, o wartości 25 PLN/miesiąc przez cały czas współpracy).
+  * Reflink - 35% prowizji od sprzedaży #PRO i #ULTRA, wypłacane co miesiąc, aż do momentu anulowania subskrybcji.
+* **Gotówka (dla influencerów z ≥10 000 obserwatorów):**
+  * Wynagrodzenie za współpracę od 1000 PLN w górę.
+  * Bezpłatny Hosting (**Plan #ULTRA**, o wartości 50 PLN/miesiąc przez cały czas współpracy).
+  * Reflink - 35% prowizji od sprzedaży #PRO i #ULTRA, wypłacane co miesiąc, aż do momentu anulowania subskrybcji.
+
+***
+
+### Ile zarobisz?
+
+Twój dochód składa się z dwóch części: stałej płatności bazowej i prowizji afiliacyjnej.
+
+Decyzja o wynagrodzeniu dla influencera zależy od wielu czynników. Oto kilka kluczowych aspektów, które warto rozważyć:
+
+* **Liczba obserwujących i zasięg:** Im większy profil, tym zazwyczaj wyższa stawka, ale nie tylko liczba obserwujących ma znaczenie – liczy się także zaangażowanie społeczności.
+* **Zaangażowanie:** Interakcja z postami (lajki, komentarze, udostępnienia). Influencer z mniejszą, ale bardzo zaangażowaną grupą może być dla nas bardziej wartościowy niż ktoś z dużym, ale biernym gronem obserwatorów.
+* **Branża i tematyka:** W zależności od niszy (moda, technologia, zdrowie, lifestyle itd.) stawki mogą się różnić.
+* **Rodzaj współpracy:** Czy mówimy o jednorazowej kampanii, długoterminowej współpracy, czy może barterowej wymianie produktów/usług?
+* **Format treści:** Posty na Instagramie, relacje, filmiki na YouTube czy blogi – każdy format ma inną wartość i czas pracy, co również wpływa na stawkę.
+
+{% hint style="info" %}
+WYMYŚLONY PRZYKŁAD
+
+Weźmy na warsztat w hipotetyczną współpracę w ramach jednego filmiku z kanałem youtube "Pasja informatyki" – bo kto się nie uczył programować u Zelenta, ten pewnie pisze do teraz kod w notatniku!
+
+379k subskrybcji, kanał wygenerował 235K wyświetleń przez ostatnie 30 dni, zaś średni engagement rate z ostatnich 5 filmów to 3.89%. Jednorazową taką promocje w materiale, wyceniamy na 5800 złotych netto.
+
+Dodatkowo -przy wygenerowaniu nam sprzedaży na 40 kont na ULTRA z reflinka zarabiałby co miesiąc 700 PLN,  czyli w skali roku, generowałoby premię w wysokości 8400 zł.&#x20;
+{% endhint %}
 
 ***
 
 ### Dlaczego warto z nami współpracować?
 
-
-
-* Stała, wysoka prowizja: 40% na start i na zawsze – bez spadków, jak u konkurencji.
-* Premia za jakość: Wysoki ER i nisza technologiczna = wyższe zarobki.
-* Długoterminowy zysk: Prowizja od odnowień i bonusy motywują do stałej współpracy.
+* **Stała, wysoka prowizja:** 35% za #PRO i #ULTRA na start i na zawsze – bez spadków, jak u konkurencji.
+* **Premia za jakość:** Wysoki ER = wyższe zarobki.
+* **Długoterminowy zysk:** Prowizja od odnowień i bonusy motywują do stałej współpracy.
 
 ***
 
 ### Wymogi prawne
-
-
 
 * **Oznaczenie współpracy:** W każdej treści dodaj wszystkie [wymagane przez UOKIK informacje](https://nakatomi.pl/jak-oznaczyc-tresci-sponsorowane-wytyczne-uokik-dla-influencerow/). Wolimy jednak bawić się serwerami, a nie bawić się w jeżdżenie po sądach odwołując się od kar finansowych.
 * **Prawa do treści:** onCloud9 może wykorzystać Twoje materiały w celach marketingowych (z oznaczeniem autora). **Nawet po 24 miesiącach.**
