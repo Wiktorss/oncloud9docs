@@ -71,42 +71,59 @@ W swoich postach, stories czy filmach podkreśl:
 
 W onCloud9 stawiamy na transparentność i atrakcyjne zarobki. Twój dochód składa się z dwóch części: stałej płatności bazowej i prowizji afiliacyjnej. Oto, jak to działa krok po kroku:&#x20;
 
-#### Krok 1: Płatność bazowa.&#x20;
+Twoje wynagrodzenie zależy od dwóch rzeczy:
 
-Twoje wynagrodzenie bazowe zależy od:
+1. Zaangażowania (ER) – czyli jak bardzo Twoja publiczność reaguje na Twoje treści.
+2. Sprzedaży z reflinka – ile osób kupi hosting onCloud9 dzięki Tobie.
 
-* Liczby obserwatorów: Im więcej masz followersów, tym więcej zarabiasz.
-* Wskaźnika zaangażowania (ER): Procent obserwatorów, którzy reagują na Twoje treści (lajki, komentarze, udostępnienia).
+Wzór:
 
-Wzór:\
-`\text{Płatność bazowa} = (\text{Liczba obserwatorów} \times 0,05 \, \text{PLN}) + (\text{ER} \times 1000 \, \text{PLN})`
 
-* 0,05 PLN za każdego obserwatora – to stała stawka rosnąca z Twoim zasięgiem.
-* 1000 PLN za każdy 1% ER – nagradzamy jakość i zaangażowanie Twojej publiczności.
 
-Przykład:\
-Masz 50 000 obserwatorów i ER 3%?\
-`\text{Płatność bazowa} = (50 000 \times 0,05) + (3 \times 1000) = 2500 \, \text{PLN} + 3000 \, \text{PLN} = 5500 \, \text{PLN}`Krok 2: Dopasowanie niszyJeśli Twoja nisza pasuje do naszej grupy docelowej, Twoja płatność bazowa rośnie:
+$$
+\text{Wynagrodzenie} = (\text{ER} \times 1500 \, \text{PLN}) + (50\% \times \text{Sprzedaż z reflinka})
+$$
 
-* Ogólna nisza (np. lifestyle): mnożnik 1.0
-* Technologia: mnożnik 1.2
-* Hosting/WordPress: mnożnik 1.5
 
-Wzór:\
-`\text{Dostosowana płatność bazowa} = \text{Płatność bazowa} \times \text{Mnożnik niszy}`\
-Przykład:\
-Jesteś w niszy technologicznej?\
-`\text{Dostosowana płatność bazowa} = 5500 \times 1.2 = 6600 \, \text{PLN}`Krok 3: Prowizja afiliacyjnaZarabiasz 40% prowizji od każdej sprzedaży wygenerowanej przez Twój unikalny reflink – także od odnowień! Prowizja jest wypłacana co miesiąc i nie spada z czasem.Wzór:\
-`\text{Prowizja} = 40\% \times \text{Całkowita sprzedaż z reflinka}`\
-Przykład:\
-Wygenerowałeś 10 000 PLN sprzedaży?\
-`\text{Prowizja} = 0,40 \times 10 000 = 4000 \, \text{PLN}`Krok 4: Całkowite wynagrodzenieSumujemy wszystko:\
-`\text{Całkowite wynagrodzenie} = \text{Dostosowana płatność bazowa} + \text{Prowizja}`\
-Przykład:\
-`\text{Całkowite wynagrodzenie} = 6600 + 4000 = 10 600 \, \text{PLN}`Krok 5: Dodatkowe bonusy
 
-* Bonus za częstotliwość: Opublikujesz ponad 10 treści w miesiącu? Dodajemy 500 PLN.
-* Bonus za wysoką sprzedaż: Sprzedaż powyżej 20 000 PLN miesięcznie? Twoja prowizja rośnie do 45%.
+* ER: Średnie zaangażowanie z wszystkich Twoich platform (np. Instagram + Facebook). Liczymy je tak:
+
+$$
+\text{ER} = \frac{\text{Suma interakcji (lajki, komentarze, udostępnienia)}}{\text{Suma obserwujących}} \times 100\%
+$$
+
+\
+Sumujemy interakcje i obserwujących ze wszystkich Twoich mediów, żeby było sprawiedliwie.
+
+* 1500 PLN za 1% ER: Prostsza stawka za jakość Twojej publiczności.
+* 50% prowizji: Zwiększamy prowizję od sprzedaży, żebyś miał/a jeszcze więcej motywacji – wypłacane co miesiąc.
+
+Przykład:
+
+* Twoje ER z Instagrama i Facebooka razem wynosi 3%.
+* Sprzedaż z reflinka: 2000 PLN.
+* Wynagrodzenie: (3 × 1500) + (0,50 × 2000) = 4500 + 1000 = 5500 PLN.
+
+Co z różnymi mediami społecznościowymi?Nie ma problemu! Niezależnie od tego, czy działasz na Instagramie, Facebooku, TikToku czy gdziekolwiek indziej, po prostu sumujemy Twoje zaangażowanie (interakcje i obserwujących) ze wszystkich platform. W ten sposób nie musisz się martwić, że jedna platforma jest „słabsza” – liczy się całość Twojego wpływu.Barter czy płatność?
+
+* Barter: Jeśli Twój ER jest poniżej 1,5% – dajemy Ci darmowy hosting na 3 miesiące + 50% prowizji od sprzedaży.
+* Płatność: Jeśli ER ≥ 1,5% – dostajesz wynagrodzenie wg wzoru + 50% prowizji.
+
+Dlaczego to lepsze?
+
+1. Super proste: Tylko dwa elementy – ER i sprzedaż. Żadnych skomplikowanych mnożników.
+2. Skupienie na jakości: Nie obchodzi nas liczba obserwujących, tylko jak bardzo Twoi fani są aktywni i kupują.
+3. Sprawiedliwość: Twoje różne platformy są traktowane jako całość, bez faworyzowania jednej.
+
+Nowy przykład z różnymi mediami:
+
+* Instagram: 1000 interakcji, 20 000 obserwujących.
+* Facebook: 500 interakcji, 10 000 obserwujących.
+* Razem: 1500 interakcji, 30 000 obserwujących → ER = (1500 ÷ 30 000) × 100% = 5%.
+* Sprzedaż: 3000 PLN.
+* Wynagrodzenie: (5 × 1500) + (0,50 × 3000) = 7500 + 1500 = 9000 PLN.
+
+Nasz algorytm jest  banalnie prosty, nagradza Twój rzeczywisty wpływ.
 
 ***
 
