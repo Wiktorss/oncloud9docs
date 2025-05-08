@@ -1,9 +1,9 @@
 ---
-icon: hourglass-clock
 description: >-
   Ta Knowledge Base przedstawia listę funkcjonalności w obecnie trwającej
   wersji, a także historycznych i planowanych aktualizacjach, w tym: NEW
   FEATURE, IMPROVEMENT, SECURITY i BUGFIX.
+icon: hourglass-clock
 ---
 
 # Changelog
@@ -16,7 +16,9 @@ Masz pomysł, co warto dodać w onCloud9? Powiedz Sophii, żeby przekazała to 
 
 {% tabs %}
 {% tab title="0.8" %}
-**Planowany termin wydania: 15.03.25**
+<figure><img src="../.gitbook/assets/v0.8.jpg" alt=""><figcaption></figcaption></figure>
+
+**Planowany termin wydania: 15.05.25**
 
 Automatyczna synchronizacja DNS z Quic Cloud CDN <mark style="color:green;">**\[NEW FEATURE]**</mark>&#x20;
 
