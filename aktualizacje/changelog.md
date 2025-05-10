@@ -16,7 +16,7 @@ Masz pomysł, co warto dodać w onCloud9? Powiedz Sophii, żeby przekazała to 
 
 {% tabs %}
 {% tab title="0.8" %}
-<figure><img src="../.gitbook/assets/v0.8.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.png" alt="" width="375"><figcaption><p>v0.8</p></figcaption></figure>
 
 **Planowany termin wydania: 15.05.25**
 
@@ -38,6 +38,8 @@ Poprawiona wydajność aktualizacji wtyczek w WordPressie <mark style="color:ora
 {% endtab %}
 
 {% tab title="0.9" %}
+<figure><img src="../.gitbook/assets/1.png" alt="" width="375"><figcaption><p>v0.9</p></figcaption></figure>
+
 **Planowany termin wydania: nieznany.**
 
 AI Planer Stron oparty o Elementor Site Planer  <mark style="color:green;">**\[NEW FEATURE]**</mark>&#x20;
